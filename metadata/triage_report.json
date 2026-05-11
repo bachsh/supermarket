@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-05-11T18:31:02.704759+00:00",
+  "summary": {
+    "total_plugins": 93,
+    "invalid_plugins": 0,
+    "link_only_plugins": 12,
+    "unknown_license_plugins": 12
+  },
+  "source_counts": {
+    "anthropic": 12,
+    "wshobson": 81
+  },
+  "warnings": [
+    "source-empty:davila7",
+    "unknown-license:12"
+  ],
+  "unknown_license_plugins": [
+    "agent-sdk-dev",
+    "claude-opus-4-5-migration",
+    "code-review",
+    "commit-commands",
+    "explanatory-output-style",
+    "feature-dev",
+    "frontend-design",
+    "hookify",
+    "learning-output-style",
+    "pr-review-toolkit",
+    "ralph-wiggum",
+    "security-guidance"
+  ]
+}

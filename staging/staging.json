@@ -1,0 +1,1808 @@
+{
+  "updated_at": "2026-05-11T18:31:02.617382+00:00",
+  "entries": [
+    {
+      "name": "accessibility-compliance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "bd48a984456f7f85a2adec9e0bb8939a29b84c3ecbcb16cb050670faa007d055"
+    },
+    {
+      "name": "agent-orchestration",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2c2c9c4f1cf665b7d9fa54d2461021337d4fdb07a5dceeedeb07c43bb3f95a5c"
+    },
+    {
+      "name": "agent-sdk-dev",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "fe136eb41742dba24452d674a8c11168fe8e420f18fd32219cb03d6c9a2c42f9"
+    },
+    {
+      "name": "agent-teams",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e02e8b46cab71a77debfd6738f173fb62a33ff7a2aa6a3ffe281dd4252e39a6d"
+    },
+    {
+      "name": "api-scaffolding",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "4777d5eafe7cef7b5dc8a58dd52aefa6469d133fcf838a6d9521da43b55d1d80"
+    },
+    {
+      "name": "api-testing-observability",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "0ae88017b53bfdcdc3383e52ad38fb7c794cc019adf3370002fbe037c9ff41f5"
+    },
+    {
+      "name": "application-performance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "95e792da4b84f4a76765ff1d6bebd082c26c7322621070e5213bba087fb73c32"
+    },
+    {
+      "name": "arm-cortex-microcontrollers",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "70b940377fff5c012c577e8037be274667afb3bec9a4243b0cdab4386b5b7c7f"
+    },
+    {
+      "name": "backend-api-security",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "b932d4c833974622e04b6bf3b3d128d879729784a50bad0ab852c10d8684ead1"
+    },
+    {
+      "name": "backend-development",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2b1a7b43c5bf19aeb1004f0c03232153fb02779f62ef0954ce111eeb5154557b"
+    },
+    {
+      "name": "block-no-verify",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "76eb6211ccba53271b85139119e9ac263b555adcbfecfc2ce25994baa216e8d1"
+    },
+    {
+      "name": "blockchain-web3",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2fb35916089cd6371d52d9ece99c4bd05b2462c43fe86d0b52719062775cb5c0"
+    },
+    {
+      "name": "brand-landingpage",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "ca337a58261c1a3350ffa29b8766d67f739603f91b5a333a99a1214b82df82b9"
+    },
+    {
+      "name": "business-analytics",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "dde1013b39a938c01f717aea8b4cbd014fb27d7f7fba1a5f08c4a091af1954d0"
+    },
+    {
+      "name": "c4-architecture",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "43be0ffd103438c3637225c64939e8cf70014de8a0b81c31583c2ba597b330df"
+    },
+    {
+      "name": "cicd-automation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "ce01838a663e334273a1a8d7a628f9e604b70ae46bfa2581f938fb7899fd5268"
+    },
+    {
+      "name": "claude-opus-4-5-migration",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "74e80505efdec498200ac878628eb00082e4057b1776c5b338d55241ed0c67d1"
+    },
+    {
+      "name": "cloud-infrastructure",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "a290b7a23175ce2a1c731f073c94496f1919516c46b345b0c1dfb2a3cff01bfa"
+    },
+    {
+      "name": "code-documentation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "537c1a3699d123001574cd1422bc5ff1af4ae4ac93b551751c982a50f5f665e8"
+    },
+    {
+      "name": "code-refactoring",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "21de098ffff89f174d65a1da304365704be059f55f21c67b7863c0c05196ddf3"
+    },
+    {
+      "name": "code-review",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "24a600566c49cdb7461ce8bd3cdb2a4f38e71c9b14684242dad9784ad6045245"
+    },
+    {
+      "name": "codebase-cleanup",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "f2369349401c0ada9a4cf031042eb138e0bcae4931aa2eacb708e74e2a55f505"
+    },
+    {
+      "name": "commit-commands",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "ba3275aed3292480d45362ce909dadd8e6c26ea00fa58e0b644699f751e9acaa"
+    },
+    {
+      "name": "comprehensive-review",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "58b7a7af68ca7099ba1dd6213b48aa2e2a7c121d3d1accfd80f449f98f2c4bb9"
+    },
+    {
+      "name": "conductor",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2c61348d0e85b7bd09316bc64d6dd951a47e6bcfeb81e14819162381e2c94a58"
+    },
+    {
+      "name": "content-marketing",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "f9b3a3238589c2a5b65a74ed8c2e12e74088ac0bbfd81fca14871581e30765d8"
+    },
+    {
+      "name": "context-management",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "8a424cb5233a3fc156fe08de7a0e7884f4162c817e4a889095ecb12e0fff1f65"
+    },
+    {
+      "name": "customer-sales-automation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "74e64b5c016f800d05eaf01fe2911e377dcc79a532e2153d1dbb0e6662e917ee"
+    },
+    {
+      "name": "data-engineering",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "457e87266dffc14cfd6bca3bf3eb3c8fe348a618af785b8736a5954933fc2803"
+    },
+    {
+      "name": "data-validation-suite",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "d2bb4146f8087eeacef67c760e19a969570d1447d8c018ce5b9f95befd2328bc"
+    },
+    {
+      "name": "database-cloud-optimization",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "f0fece06d083606bd9de4ff7d68c39e6a22e76f89240a434dca38583ea809673"
+    },
+    {
+      "name": "database-design",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "24dc5979b0e0bfdeca63e35753f9d1662b3efde248ae02cc382349fb1c35e452"
+    },
+    {
+      "name": "database-migrations",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "823f33061c1d79ed7764f22d56e83e7f73470630bf2a42f5a54cff5e9e481739"
+    },
+    {
+      "name": "debugging-toolkit",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "c2956494fcb666efafb2b459ae25e9ebc7b534f9aadad7bdf512a7aa1461eeee"
+    },
+    {
+      "name": "dependency-management",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "158b11b8a1255e251557531fb4a47644601aa5612cd3d29d60610b50f7747389"
+    },
+    {
+      "name": "deployment-strategies",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "b82aff5d9dfeeba2c6a621eeb88d2b67e1c9e70da27022fd2f94e95aad66f3cc"
+    },
+    {
+      "name": "deployment-validation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "8865a53fd4c5a7d877bcf3e552a6ad078e40a2e8c9065859f00678ad4cb0c29d"
+    },
+    {
+      "name": "developer-essentials",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "1c17a9ea3d077212bc8489b5473d2572dfd6aa400990471b45087698f3e74751"
+    },
+    {
+      "name": "distributed-debugging",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "47cdaaa42dbda7b91fcd37a8841451b3bc7b70c0c43e1c63e6e18886589d3c30"
+    },
+    {
+      "name": "documentation-generation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "00438451373d601f8ff52ea017b9922bfa714668557f41f7b34e1f911e5d4d3d"
+    },
+    {
+      "name": "documentation-standards",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "148bfaab4dd0618c5ba65a32d3e6615cf8fdeb1486ed7e5441e7daa15294f189"
+    },
+    {
+      "name": "dotnet-contribution",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "21df1f88272d00416eeaf415a6c8b86143af2b2d8d425b018a93e9601188f165"
+    },
+    {
+      "name": "error-debugging",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "25b41309321530b88343dfcb73a76ef0fdb2cf28a8c54392efb69ca307c870ad"
+    },
+    {
+      "name": "error-diagnostics",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "7b1a21d6677a677b1cbcd036da7cabf3ba7b77e30295969ab2893d70ebc5cc5a"
+    },
+    {
+      "name": "explanatory-output-style",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "6b21819b9ebbed068b9ca86d98ed3ecb322c251f18b91fbb2dc550b6c63dbcbb"
+    },
+    {
+      "name": "feature-dev",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "220b606a24a97a05aafe94057b971edb5d12253dea2c583fa6cf4f97df23f58b"
+    },
+    {
+      "name": "framework-migration",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2d8f8cb0bc3d1a768d1c55f8c8a230fe7a8f9eac0b2b9e7cc60a8620684f9e94"
+    },
+    {
+      "name": "frontend-design",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2af5f244756c6a1fc7ca647efcdf73080d9f81086e97b5d1a2b4f857b532c4eb"
+    },
+    {
+      "name": "frontend-mobile-development",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2180e5ed9f86fbb32c10101e3bdbfa72baeaabbf7248475a952a324ba1ab226c"
+    },
+    {
+      "name": "frontend-mobile-security",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "b566945a04c46b9d96ca4b2693afab2be96e0a18325f0936665635a3c5d59628"
+    },
+    {
+      "name": "full-stack-orchestration",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "438a14566267fa34dbbffadb7d5b1b6131d4b6b9b883aef904278f9fc34803e1"
+    },
+    {
+      "name": "functional-programming",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "69dff56536200e2fe816662752f99707891bef8d2b24e7ca40ac508309c15809"
+    },
+    {
+      "name": "game-development",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "38496f968a8d87ce79c4b7cf68db9d73b2c3be4fb2ecede37afd9161736b3386"
+    },
+    {
+      "name": "git-pr-workflows",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "77338cb87b2ab12ac0ecc01d47b873eb7a266004781449b6ca859747164c1827"
+    },
+    {
+      "name": "hookify",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "6fda0cae50cbfc3dfaf05aed5db038afe2119f1c8edd152f9cfb1bfd0f9205ae"
+    },
+    {
+      "name": "hr-legal-compliance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "ae8842631f21b318a4214283bc9d76744c9e7bf64a63d6f1bbb0cb19de31da5e"
+    },
+    {
+      "name": "incident-response",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "29adc5255b457e1c4cafb215b4efb9cbab9e7b83b062ec0b13c99deeab5e4843"
+    },
+    {
+      "name": "javascript-typescript",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "dfc1830a36c83f0c1dfc59f307de9e15b2fd9466f5f1b217c7538619339032f5"
+    },
+    {
+      "name": "julia-development",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "a92f71aa29f4c1a5a9d7e2d80a4deb799cf79a53312f5a14ce27cb4d3a5e64f6"
+    },
+    {
+      "name": "jvm-languages",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "dc98eeb994776a4edbf0c39b0b39e269ba81e475abbcc58be36e9d6af9936a14"
+    },
+    {
+      "name": "kubernetes-operations",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "5bb9900634f37ac26ef306669bd43c325af0090d4bedc445ded41034e2dc4a5d"
+    },
+    {
+      "name": "learning-output-style",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "500fd60cc0eab055e1e8173d0d9291833ebafb55808331f8f0ca16332c78f125"
+    },
+    {
+      "name": "llm-application-dev",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "57730cc25f78f3663eb1e054779c37424c8c9857c02cce018189ed1c7ecbe6ff"
+    },
+    {
+      "name": "machine-learning-ops",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "bc64b8406cddc474bb003a80a0a13c7f7644376e8778c6ff4b566d4fac76f8b7"
+    },
+    {
+      "name": "meigen-ai-design",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "3797fb13f35473209fc23464b37ae2bfd50817cda020e892809434204fb14a0d"
+    },
+    {
+      "name": "multi-platform-apps",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "32f731a73b412dfd9894fe821582972fe2e9ec5ac8b756390b53c69e6b5068b9"
+    },
+    {
+      "name": "observability-monitoring",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "639bac916392fa36ccda5d3512250b5d914a5309efcc4866fd347db064d622c2"
+    },
+    {
+      "name": "payment-processing",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "78140e31bb4e38a225cba9d261b0de5cacd52af9ad72426eaef7d68b74fa49be"
+    },
+    {
+      "name": "performance-testing-review",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "06834e0635962899d14d25c5552585a186a080adfbe761f35a116dbd1b073f08"
+    },
+    {
+      "name": "plugin-eval",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e029117ff652b28bc7d2b68be1f722402fefd46650063d92d78d15bc70efa84e"
+    },
+    {
+      "name": "pr-review-toolkit",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "43fcd44c7c176f3068c2ee5f6cc489639e5585fbb1debc90eec4252192248bd5"
+    },
+    {
+      "name": "protect-mcp",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "0feafb653f02e3d6e9d2e48772d0037905dfd3d7a3f45a4c7ed86109b924985b"
+    },
+    {
+      "name": "python-development",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "aaadda72cab53a0f132716b0af8816b0caf974cc38949b40c69e245832ed7ae6"
+    },
+    {
+      "name": "qa-orchestra",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "7104b5dc2f6d9d144395d46a12c58127a8ebb577fd0524f0ca2410d443d5cb09"
+    },
+    {
+      "name": "quantitative-trading",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "58b2a3b85e78b314c9600be450f826c5496f4a01f96cf1ffa6c5a1f398c434ba"
+    },
+    {
+      "name": "ralph-wiggum",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "ecd7fb2472534d387d0fe446e10615f03ce55fee6ba71741990a0ea26bbbbd3f"
+    },
+    {
+      "name": "reverse-engineering",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "4aa68246887fe73eb3902f96e0d97b910bf13814de6f1df659e4a566fbe95280"
+    },
+    {
+      "name": "review-agent-governance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "bd133ac9dacd533d49d4a915d4a36db81abd5b0ace431ba6fe0d27dd9f3bc84e"
+    },
+    {
+      "name": "security-compliance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "c189e95273ae99e3874354d6343aa4711447848bc6a7b59cb114e421550a271c"
+    },
+    {
+      "name": "security-guidance",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "64d8c96a04c52ce969a53059720ae647af8b1df8a299f1c442cbd10c2cbc3bc4"
+    },
+    {
+      "name": "security-scanning",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e03023eb2cedd7108ce00cedc36f8222d16a90aceabaafff74eaf42de3e7696d"
+    },
+    {
+      "name": "seo-analysis-monitoring",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "b06051cd3beff73a30e566ec40efb315db0e727278ec87c1a8756c9c9879255e"
+    },
+    {
+      "name": "seo-content-creation",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "8be9f9a3a23df8140e14d98409493cfff692a47ed7811162fa8b276e94f7b16d"
+    },
+    {
+      "name": "seo-technical-optimization",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e2517a1e28ac3c9e445b8836a0f62373b7a2a562e330096e88cae2ab924ff0f0"
+    },
+    {
+      "name": "shell-scripting",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e190620301d50584941a99750674d374904b4939f422c862e7db5bbf97f57cf7"
+    },
+    {
+      "name": "signed-audit-trails",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "5f238a391c9e78eec85e0cda9c510b8b0fe609ca71439281446bb4fc987d6835"
+    },
+    {
+      "name": "startup-business-analyst",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "9e968dcca7fbfe82514465788f1a8f0cedfbf23688d44ba4751ed6f23c6c8a34"
+    },
+    {
+      "name": "systems-programming",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "e5fff4f4395063afc61da679046f6e3d61da20ded73ab6094f738f0ba589da4d"
+    },
+    {
+      "name": "tdd-workflows",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "02a8a995200faf862710d2194943773e56fb448c6b8e2b2fba482a06129871a5"
+    },
+    {
+      "name": "team-collaboration",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "af4cb9ccb08a0e08bca98c459c501f67c969263e378450518fa98c5375590fb6"
+    },
+    {
+      "name": "ui-design",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "20c3e27b9589078073ad74d30421ff483e7c8f82825d37c31b9b3af1bdb84a1c"
+    },
+    {
+      "name": "unit-testing",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "2361da22a035447c95f6008862ae115b25c1ec931cfb2585d99218338dbe4728"
+    },
+    {
+      "name": "web-scripting",
+      "status": "auto_promoted",
+      "reason": "bootstrap-first-run",
+      "updated_at": "2026-05-11T18:31:02.617382+00:00",
+      "fingerprint": "9d93835ce452ee591611423401010295b1f335882cbbd89f54dcf23d5289a2ff"
+    }
+  ],
+  "promoted_plugins": {
+    "accessibility-compliance": {
+      "name": "accessibility-compliance",
+      "version": "1.2.2",
+      "description": "WCAG accessibility auditing, compliance validation, UI testing for screen readers, keyboard navigation, and inclusive design",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-accessibility-compliance",
+      "mirrored_path": "plugins/wshobson-accessibility-compliance",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "agent-orchestration": {
+      "name": "agent-orchestration",
+      "version": "1.2.1",
+      "description": "Multi-agent system optimization, agent improvement workflows, and context management",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-agent-orchestration",
+      "mirrored_path": "plugins/wshobson-agent-orchestration",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "agent-sdk-dev": {
+      "name": "agent-sdk-dev",
+      "version": "1.0.0",
+      "description": "Claude Agent SDK Development Plugin",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-agent-sdk-dev",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "agent-teams": {
+      "name": "agent-teams",
+      "version": "1.0.2",
+      "description": "Orchestrate multi-agent teams for parallel code review, hypothesis-driven debugging, and coordinated feature development using Claude Code's Agent Teams",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-agent-teams",
+      "mirrored_path": "plugins/wshobson-agent-teams",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "api-scaffolding": {
+      "name": "api-scaffolding",
+      "version": "1.2.2",
+      "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-api-scaffolding",
+      "mirrored_path": "plugins/wshobson-api-scaffolding",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "api-testing-observability": {
+      "name": "api-testing-observability",
+      "version": "1.2.0",
+      "description": "API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-api-testing-observability",
+      "mirrored_path": "plugins/wshobson-api-testing-observability",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "application-performance": {
+      "name": "application-performance",
+      "version": "1.3.0",
+      "description": "Application profiling, performance optimization, and observability for frontend and backend systems",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-application-performance",
+      "mirrored_path": "plugins/wshobson-application-performance",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "arm-cortex-microcontrollers": {
+      "name": "arm-cortex-microcontrollers",
+      "version": "1.2.0",
+      "description": "ARM Cortex-M firmware development for Teensy, STM32, nRF52, and SAMD with peripheral drivers and memory safety patterns",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-arm-cortex-microcontrollers",
+      "mirrored_path": "plugins/wshobson-arm-cortex-microcontrollers",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "backend-api-security": {
+      "name": "backend-api-security",
+      "version": "1.2.0",
+      "description": "API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-backend-api-security",
+      "mirrored_path": "plugins/wshobson-backend-api-security",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "backend-development": {
+      "name": "backend-development",
+      "version": "1.3.1",
+      "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-backend-development",
+      "mirrored_path": "plugins/wshobson-backend-development",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "block-no-verify": {
+      "name": "block-no-verify",
+      "version": "1.0.0",
+      "description": "PreToolUse hook that prevents AI agents from using --no-verify, --no-gpg-sign, and other bypass flags that skip git hooks",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-block-no-verify",
+      "mirrored_path": "plugins/wshobson-block-no-verify",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "blockchain-web3": {
+      "name": "blockchain-web3",
+      "version": "1.2.2",
+      "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-blockchain-web3",
+      "mirrored_path": "plugins/wshobson-blockchain-web3",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "brand-landingpage": {
+      "name": "brand-landingpage",
+      "version": "1.0.0",
+      "description": "Guides developers from brand discovery through iterative design to deployment-ready HTML via Stitch.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-brand-landingpage",
+      "mirrored_path": "plugins/wshobson-brand-landingpage",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 69
+    },
+    "business-analytics": {
+      "name": "business-analytics",
+      "version": "1.2.2",
+      "description": "Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-business-analytics",
+      "mirrored_path": "plugins/wshobson-business-analytics",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "c4-architecture": {
+      "name": "c4-architecture",
+      "version": "1.0.0",
+      "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-c4-architecture",
+      "mirrored_path": "plugins/wshobson-c4-architecture",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "cicd-automation": {
+      "name": "cicd-automation",
+      "version": "1.2.2",
+      "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-cicd-automation",
+      "mirrored_path": "plugins/wshobson-cicd-automation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "claude-opus-4-5-migration": {
+      "name": "claude-opus-4-5-migration",
+      "version": "1.0.0",
+      "description": "Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5.",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-claude-opus-4-5-migration",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "cloud-infrastructure": {
+      "name": "cloud-infrastructure",
+      "version": "1.3.1",
+      "description": "Cloud architecture design for AWS/Azure/GCP/OCI, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-cloud-infrastructure",
+      "mirrored_path": "plugins/wshobson-cloud-infrastructure",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "code-documentation": {
+      "name": "code-documentation",
+      "version": "1.2.0",
+      "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-code-documentation",
+      "mirrored_path": "plugins/wshobson-code-documentation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "code-refactoring": {
+      "name": "code-refactoring",
+      "version": "1.2.0",
+      "description": "Code cleanup, refactoring automation, and technical debt management with context restoration",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-code-refactoring",
+      "mirrored_path": "plugins/wshobson-code-refactoring",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "code-review": {
+      "name": "code-review",
+      "version": "1.0.0",
+      "description": "Automated code review for pull requests using multiple specialized agents with confidence-based scoring",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-code-review",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "codebase-cleanup": {
+      "name": "codebase-cleanup",
+      "version": "1.2.0",
+      "description": "Technical debt reduction, dependency updates, and code refactoring automation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-codebase-cleanup",
+      "mirrored_path": "plugins/wshobson-codebase-cleanup",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "commit-commands": {
+      "name": "commit-commands",
+      "version": "1.0.0",
+      "description": "Streamline your git workflow with simple commands for committing, pushing, and creating pull requests",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-commit-commands",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "comprehensive-review": {
+      "name": "comprehensive-review",
+      "version": "1.3.0",
+      "description": "Multi-perspective code analysis covering architecture, security, and best practices",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-comprehensive-review",
+      "mirrored_path": "plugins/wshobson-comprehensive-review",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "conductor": {
+      "name": "conductor",
+      "version": "1.2.1",
+      "description": "Context-Driven Development plugin that transforms Claude Code into a project management tool with structured workflow: Context \u2192 Spec & Plan \u2192 Implement",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-conductor",
+      "mirrored_path": "plugins/wshobson-conductor",
+      "x-supermarket-license": "APACHE-2.0",
+      "x-supermarket-score": 75
+    },
+    "content-marketing": {
+      "name": "content-marketing",
+      "version": "1.2.0",
+      "description": "Content marketing strategy, web research, and information synthesis for marketing operations",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-content-marketing",
+      "mirrored_path": "plugins/wshobson-content-marketing",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "context-management": {
+      "name": "context-management",
+      "version": "1.2.0",
+      "description": "Context persistence, restoration, and long-running conversation management",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-context-management",
+      "mirrored_path": "plugins/wshobson-context-management",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "customer-sales-automation": {
+      "name": "customer-sales-automation",
+      "version": "1.2.0",
+      "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-customer-sales-automation",
+      "mirrored_path": "plugins/wshobson-customer-sales-automation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "data-engineering": {
+      "name": "data-engineering",
+      "version": "1.3.1",
+      "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-data-engineering",
+      "mirrored_path": "plugins/wshobson-data-engineering",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "data-validation-suite": {
+      "name": "data-validation-suite",
+      "version": "1.2.0",
+      "description": "Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-data-validation-suite",
+      "mirrored_path": "plugins/wshobson-data-validation-suite",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "database-cloud-optimization": {
+      "name": "database-cloud-optimization",
+      "version": "1.2.0",
+      "description": "Database query optimization, cloud cost optimization, and scalability improvements",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-database-cloud-optimization",
+      "mirrored_path": "plugins/wshobson-database-cloud-optimization",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "database-design": {
+      "name": "database-design",
+      "version": "1.2.0",
+      "description": "Database architecture, schema design, and SQL optimization for production systems",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-database-design",
+      "mirrored_path": "plugins/wshobson-database-design",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "database-migrations": {
+      "name": "database-migrations",
+      "version": "1.2.0",
+      "description": "Database migration automation, observability, and cross-database migration strategies",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-database-migrations",
+      "mirrored_path": "plugins/wshobson-database-migrations",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "debugging-toolkit": {
+      "name": "debugging-toolkit",
+      "version": "1.2.0",
+      "description": "Interactive debugging, developer experience optimization, and smart debugging workflows",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-debugging-toolkit",
+      "mirrored_path": "plugins/wshobson-debugging-toolkit",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "dependency-management": {
+      "name": "dependency-management",
+      "version": "1.2.0",
+      "description": "Dependency auditing, version management, and security vulnerability scanning",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-dependency-management",
+      "mirrored_path": "plugins/wshobson-dependency-management",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "deployment-strategies": {
+      "name": "deployment-strategies",
+      "version": "1.2.0",
+      "description": "Deployment patterns, rollback automation, and infrastructure templates",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-deployment-strategies",
+      "mirrored_path": "plugins/wshobson-deployment-strategies",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "deployment-validation": {
+      "name": "deployment-validation",
+      "version": "1.2.0",
+      "description": "Pre-deployment checks, configuration validation, and deployment readiness assessment",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-deployment-validation",
+      "mirrored_path": "plugins/wshobson-deployment-validation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "developer-essentials": {
+      "name": "developer-essentials",
+      "version": "1.0.3",
+      "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-developer-essentials",
+      "mirrored_path": "plugins/wshobson-developer-essentials",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "distributed-debugging": {
+      "name": "distributed-debugging",
+      "version": "1.2.0",
+      "description": "Distributed system tracing and debugging across microservices",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-distributed-debugging",
+      "mirrored_path": "plugins/wshobson-distributed-debugging",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "documentation-generation": {
+      "name": "documentation-generation",
+      "version": "1.2.2",
+      "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-documentation-generation",
+      "mirrored_path": "plugins/wshobson-documentation-generation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "documentation-standards": {
+      "name": "documentation-standards",
+      "version": "1.0.0",
+      "description": "HADS (Human-AI Document Standard) \u2014 semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token consumption by separating machine-critical facts from human context.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-documentation-standards",
+      "mirrored_path": "plugins/wshobson-documentation-standards",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "dotnet-contribution": {
+      "name": "dotnet-contribution",
+      "version": "1.0.1",
+      "description": "Comprehensive .NET backend development with C#, ASP.NET Core, Entity Framework Core, and Dapper for production-grade applications",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-dotnet-contribution",
+      "mirrored_path": "plugins/wshobson-dotnet-contribution",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 72
+    },
+    "error-debugging": {
+      "name": "error-debugging",
+      "version": "1.2.0",
+      "description": "Error analysis, trace debugging, and multi-agent problem diagnosis",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-error-debugging",
+      "mirrored_path": "plugins/wshobson-error-debugging",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "error-diagnostics": {
+      "name": "error-diagnostics",
+      "version": "1.2.0",
+      "description": "Error tracing, root cause analysis, and smart debugging for production systems",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-error-diagnostics",
+      "mirrored_path": "plugins/wshobson-error-diagnostics",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "explanatory-output-style": {
+      "name": "explanatory-output-style",
+      "version": "1.0.0",
+      "description": "Adds educational insights about implementation choices and codebase patterns (mimics the deprecated Explanatory output style)",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-explanatory-output-style",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "feature-dev": {
+      "name": "feature-dev",
+      "version": "1.0.0",
+      "description": "Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-feature-dev",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "framework-migration": {
+      "name": "framework-migration",
+      "version": "1.3.1",
+      "description": "Framework updates, migration planning, and architectural transformation workflows",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-framework-migration",
+      "mirrored_path": "plugins/wshobson-framework-migration",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "frontend-design": {
+      "name": "frontend-design",
+      "version": "1.0.0",
+      "description": "Frontend design skill for UI/UX implementation",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-frontend-design",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "frontend-mobile-development": {
+      "name": "frontend-mobile-development",
+      "version": "1.2.2",
+      "description": "Frontend UI development and mobile application implementation across platforms",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-frontend-mobile-development",
+      "mirrored_path": "plugins/wshobson-frontend-mobile-development",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "frontend-mobile-security": {
+      "name": "frontend-mobile-security",
+      "version": "1.2.0",
+      "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-frontend-mobile-security",
+      "mirrored_path": "plugins/wshobson-frontend-mobile-security",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "full-stack-orchestration": {
+      "name": "full-stack-orchestration",
+      "version": "1.3.0",
+      "description": "End-to-end feature orchestration with testing, security, performance, and deployment",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-full-stack-orchestration",
+      "mirrored_path": "plugins/wshobson-full-stack-orchestration",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "functional-programming": {
+      "name": "functional-programming",
+      "version": "1.2.0",
+      "description": "Functional programming with Elixir, OTP patterns, Phoenix framework, and distributed systems",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-functional-programming",
+      "mirrored_path": "plugins/wshobson-functional-programming",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "game-development": {
+      "name": "game-development",
+      "version": "1.2.2",
+      "description": "Unity game development with C# scripting, Minecraft server plugin development with Bukkit/Spigot APIs",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-game-development",
+      "mirrored_path": "plugins/wshobson-game-development",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "git-pr-workflows": {
+      "name": "git-pr-workflows",
+      "version": "1.3.0",
+      "description": "Git workflow automation, pull request enhancement, and team onboarding processes",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-git-pr-workflows",
+      "mirrored_path": "plugins/wshobson-git-pr-workflows",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "hookify": {
+      "name": "hookify",
+      "version": "0.1.0",
+      "description": "Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-hookify",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "hr-legal-compliance": {
+      "name": "hr-legal-compliance",
+      "version": "1.2.2",
+      "description": "HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-hr-legal-compliance",
+      "mirrored_path": "plugins/wshobson-hr-legal-compliance",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "incident-response": {
+      "name": "incident-response",
+      "version": "1.3.1",
+      "description": "Production incident management, triage workflows, and automated incident resolution",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-incident-response",
+      "mirrored_path": "plugins/wshobson-incident-response",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "javascript-typescript": {
+      "name": "javascript-typescript",
+      "version": "1.2.2",
+      "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-javascript-typescript",
+      "mirrored_path": "plugins/wshobson-javascript-typescript",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "julia-development": {
+      "name": "julia-development",
+      "version": "1.0.0",
+      "description": "Modern Julia development with Julia 1.10+, package management, scientific computing, high-performance numerical code, and production best practices",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-julia-development",
+      "mirrored_path": "plugins/wshobson-julia-development",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "jvm-languages": {
+      "name": "jvm-languages",
+      "version": "1.2.0",
+      "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-jvm-languages",
+      "mirrored_path": "plugins/wshobson-jvm-languages",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "kubernetes-operations": {
+      "name": "kubernetes-operations",
+      "version": "1.2.2",
+      "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-kubernetes-operations",
+      "mirrored_path": "plugins/wshobson-kubernetes-operations",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "learning-output-style": {
+      "name": "learning-output-style",
+      "version": "1.0.0",
+      "description": "Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style)",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-learning-output-style",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "llm-application-dev": {
+      "name": "llm-application-dev",
+      "version": "2.0.5",
+      "description": "LLM application development with LangGraph, RAG systems, vector search, and AI agent architectures for Claude 4.6 and GPT-5.4",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-llm-application-dev",
+      "mirrored_path": "plugins/wshobson-llm-application-dev",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "machine-learning-ops": {
+      "name": "machine-learning-ops",
+      "version": "1.2.1",
+      "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-machine-learning-ops",
+      "mirrored_path": "plugins/wshobson-machine-learning-ops",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "meigen-ai-design": {
+      "name": "meigen-ai-design",
+      "version": "1.0.5",
+      "description": "AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-meigen-ai-design",
+      "mirrored_path": "plugins/wshobson-meigen-ai-design",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 72
+    },
+    "multi-platform-apps": {
+      "name": "multi-platform-apps",
+      "version": "1.3.0",
+      "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-multi-platform-apps",
+      "mirrored_path": "plugins/wshobson-multi-platform-apps",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "observability-monitoring": {
+      "name": "observability-monitoring",
+      "version": "1.2.2",
+      "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-observability-monitoring",
+      "mirrored_path": "plugins/wshobson-observability-monitoring",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "payment-processing": {
+      "name": "payment-processing",
+      "version": "1.2.2",
+      "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-payment-processing",
+      "mirrored_path": "plugins/wshobson-payment-processing",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "performance-testing-review": {
+      "name": "performance-testing-review",
+      "version": "1.2.1",
+      "description": "Performance analysis, test coverage review, and AI-powered code quality assessment",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-performance-testing-review",
+      "mirrored_path": "plugins/wshobson-performance-testing-review",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "plugin-eval": {
+      "name": "plugin-eval",
+      "version": "0.1.0",
+      "description": "Three-layer quality evaluation framework for Claude Code plugins with Elo ranking",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-plugin-eval",
+      "mirrored_path": "plugins/wshobson-plugin-eval",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "pr-review-toolkit": {
+      "name": "pr-review-toolkit",
+      "version": "1.0.0",
+      "description": "Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-pr-review-toolkit",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "protect-mcp": {
+      "name": "protect-mcp",
+      "version": "0.1.0",
+      "description": "Cedar policy enforcement + Ed25519 signed receipts for every Claude Code tool call. First cryptographic governance plugin \u2014 decisions are policy-gated before they run and every decision produces a tamper-evident receipt verifiable offline.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-protect-mcp",
+      "mirrored_path": "plugins/wshobson-protect-mcp",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "python-development": {
+      "name": "python-development",
+      "version": "1.2.2",
+      "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-python-development",
+      "mirrored_path": "plugins/wshobson-python-development",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "qa-orchestra": {
+      "name": "qa-orchestra",
+      "version": "1.0.0",
+      "description": "Multi-agent QA toolkit with 10 specialized agents covering the full QA lifecycle \u2014 orchestrator, environment-manager, functional-reviewer, test-scenario-designer, browser-validator, automation-writer, manual-validator, bug-reporter, release-analyzer, and smart-test-selector. Stack-agnostic, output-chained, designed around live validation via Chrome MCP.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Anasss/qa-orchestra.git",
+        "path": "."
+      },
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 47
+    },
+    "quantitative-trading": {
+      "name": "quantitative-trading",
+      "version": "1.2.2",
+      "description": "Quantitative analysis, algorithmic trading strategies, financial modeling, portfolio risk management, and backtesting",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-quantitative-trading",
+      "mirrored_path": "plugins/wshobson-quantitative-trading",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "ralph-wiggum": {
+      "name": "ralph-wiggum",
+      "version": "1.0.0",
+      "description": "Implementation of the Ralph Wiggum technique - continuous self-referential AI loops for interactive iterative development. Run Claude in a while-true loop with the same prompt until task completion.",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-ralph-wiggum",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "reverse-engineering": {
+      "name": "reverse-engineering",
+      "version": "1.0.0",
+      "description": "Binary reverse engineering, malware analysis, firmware security, and software protection research for authorized security research, CTF competitions, and defensive security",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-reverse-engineering",
+      "mirrored_path": "plugins/wshobson-reverse-engineering",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "review-agent-governance": {
+      "name": "review-agent-governance",
+      "version": "0.1.0",
+      "description": "Require a human approval signal before an AI agent can post PR reviews, comments, merges, or writes to CI configuration. Joins protect-mcp and signed-audit-trails in the governance category; composes with protect-mcp for runtime enforcement.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-review-agent-governance",
+      "mirrored_path": "plugins/wshobson-review-agent-governance",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "security-compliance": {
+      "name": "security-compliance",
+      "version": "1.2.0",
+      "description": "SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-security-compliance",
+      "mirrored_path": "plugins/wshobson-security-compliance",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "security-guidance": {
+      "name": "security-guidance",
+      "version": "1.0.0",
+      "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
+      "source_id": "anthropic",
+      "source_priority": 1,
+      "upstream_repo": "https://github.com/anthropics/claude-code.git",
+      "source": "https://github.com/anthropics/claude-code.git",
+      "mirrored_path": "plugins/anthropic-security-guidance",
+      "x-supermarket-license": "UNKNOWN",
+      "link_only": true,
+      "link_reason": "license-restriction",
+      "x-supermarket-score": 52
+    },
+    "security-scanning": {
+      "name": "security-scanning",
+      "version": "1.3.1",
+      "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-security-scanning",
+      "mirrored_path": "plugins/wshobson-security-scanning",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "seo-analysis-monitoring": {
+      "name": "seo-analysis-monitoring",
+      "version": "1.2.0",
+      "description": "Content freshness analysis, cannibalization detection, and authority building for SEO",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-seo-analysis-monitoring",
+      "mirrored_path": "plugins/wshobson-seo-analysis-monitoring",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "seo-content-creation": {
+      "name": "seo-content-creation",
+      "version": "1.2.0",
+      "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-seo-content-creation",
+      "mirrored_path": "plugins/wshobson-seo-content-creation",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "seo-technical-optimization": {
+      "name": "seo-technical-optimization",
+      "version": "1.2.0",
+      "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-seo-technical-optimization",
+      "mirrored_path": "plugins/wshobson-seo-technical-optimization",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    },
+    "shell-scripting": {
+      "name": "shell-scripting",
+      "version": "1.2.2",
+      "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-shell-scripting",
+      "mirrored_path": "plugins/wshobson-shell-scripting",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "signed-audit-trails": {
+      "name": "signed-audit-trails",
+      "version": "0.1.0",
+      "description": "Teaching skill: cookbook-style walkthrough for signed audit trails on every Claude Code tool call. Cedar policy, Ed25519 receipts, offline verification, CI/CD integration, SLSA composition. Pairs with the protect-mcp runtime plugin.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-signed-audit-trails",
+      "mirrored_path": "plugins/wshobson-signed-audit-trails",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 69
+    },
+    "startup-business-analyst": {
+      "name": "startup-business-analyst",
+      "version": "1.0.5",
+      "description": "Comprehensive startup business analysis with market sizing (TAM/SAM/SOM), financial modeling, team planning, and strategic research for early-stage companies",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-startup-business-analyst",
+      "mirrored_path": "plugins/wshobson-startup-business-analyst",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "systems-programming": {
+      "name": "systems-programming",
+      "version": "1.2.2",
+      "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-systems-programming",
+      "mirrored_path": "plugins/wshobson-systems-programming",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 59
+    },
+    "tdd-workflows": {
+      "name": "tdd-workflows",
+      "version": "1.3.0",
+      "description": "Test-driven development methodology with red-green-refactor cycles and code review",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-tdd-workflows",
+      "mirrored_path": "plugins/wshobson-tdd-workflows",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "team-collaboration": {
+      "name": "team-collaboration",
+      "version": "1.2.0",
+      "description": "Team workflows, issue management, standup automation, and developer experience optimization",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-team-collaboration",
+      "mirrored_path": "plugins/wshobson-team-collaboration",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "ui-design": {
+      "name": "ui-design",
+      "version": "1.0.4",
+      "description": "Comprehensive UI/UX design plugin for mobile (iOS, Android, React Native) and web applications with design systems, accessibility, and modern patterns",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-ui-design",
+      "mirrored_path": "plugins/wshobson-ui-design",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 75
+    },
+    "unit-testing": {
+      "name": "unit-testing",
+      "version": "1.2.0",
+      "description": "Unit and integration test automation for Python and JavaScript with debugging support",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-unit-testing",
+      "mirrored_path": "plugins/wshobson-unit-testing",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 56
+    },
+    "web-scripting": {
+      "name": "web-scripting",
+      "version": "1.2.0",
+      "description": "Web scripting with PHP and Ruby for web applications, CMS development, and backend services",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-web-scripting",
+      "mirrored_path": "plugins/wshobson-web-scripting",
+      "x-supermarket-license": "MIT",
+      "x-supermarket-score": 53
+    }
+  },
+  "summary": {
+    "scored": 93,
+    "promoted": 93,
+    "staged": 0,
+    "new_plugins": 0,
+    "ttl_rejected": 0
+  }
+}

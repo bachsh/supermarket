@@ -1,0 +1,660 @@
+{
+  "summary": {
+    "total": 93,
+    "mirrored": 81,
+    "link_only": 12
+  },
+  "licenses": [
+    {
+      "name": "agent-sdk-dev",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "claude-opus-4-5-migration",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "code-review",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "commit-commands",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "explanatory-output-style",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "feature-dev",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "frontend-design",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "hookify",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "learning-output-style",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "pr-review-toolkit",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "ralph-wiggum",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "security-guidance",
+      "license": "UNKNOWN",
+      "classification": "link-only",
+      "mirrored": false,
+      "override": false
+    },
+    {
+      "name": "documentation-standards",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "code-documentation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "debugging-toolkit",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "git-pr-workflows",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "backend-development",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "frontend-mobile-development",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "full-stack-orchestration",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "unit-testing",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "tdd-workflows",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "code-refactoring",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "dependency-management",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "error-debugging",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "team-collaboration",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "llm-application-dev",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "agent-orchestration",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "context-management",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "machine-learning-ops",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "data-engineering",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "incident-response",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "error-diagnostics",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "distributed-debugging",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "observability-monitoring",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "deployment-strategies",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "deployment-validation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "kubernetes-operations",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "cloud-infrastructure",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "cicd-automation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "application-performance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "database-cloud-optimization",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "comprehensive-review",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "performance-testing-review",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "framework-migration",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "codebase-cleanup",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "database-design",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "database-migrations",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "security-scanning",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "security-compliance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "backend-api-security",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "frontend-mobile-security",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "data-validation-suite",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "api-scaffolding",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "api-testing-observability",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "seo-content-creation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "seo-technical-optimization",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "seo-analysis-monitoring",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "documentation-generation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "c4-architecture",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "multi-platform-apps",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "business-analytics",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "startup-business-analyst",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "hr-legal-compliance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "customer-sales-automation",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "content-marketing",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "blockchain-web3",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "quantitative-trading",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "payment-processing",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "game-development",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "accessibility-compliance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "python-development",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "javascript-typescript",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "systems-programming",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "jvm-languages",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "web-scripting",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "functional-programming",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "julia-development",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "arm-cortex-microcontrollers",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "shell-scripting",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "developer-essentials",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "reverse-engineering",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "conductor",
+      "license": "APACHE-2.0",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "ui-design",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "agent-teams",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "dotnet-contribution",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "meigen-ai-design",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "brand-landingpage",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "plugin-eval",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "block-no-verify",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "qa-orchestra",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "protect-mcp",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "signed-audit-trails",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "review-agent-governance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    }
+  ]
+}

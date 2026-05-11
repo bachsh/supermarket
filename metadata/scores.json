@@ -1,0 +1,1118 @@
+{
+  "accessibility-compliance": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "agent-orchestration": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "agent-sdk-dev": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "agent-teams": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "api-scaffolding": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "api-testing-observability": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "application-performance": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "arm-cortex-microcontrollers": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "backend-api-security": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "backend-development": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "block-no-verify": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "blockchain-web3": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "brand-landingpage": {
+    "total": 69,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "business-analytics": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "c4-architecture": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "cicd-automation": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "claude-opus-4-5-migration": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "cloud-infrastructure": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "code-documentation": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "code-refactoring": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "code-review": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "codebase-cleanup": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "commit-commands": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "comprehensive-review": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "conductor": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "content-marketing": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "context-management": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "customer-sales-automation": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "data-engineering": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "data-validation-suite": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "database-cloud-optimization": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "database-design": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "database-migrations": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "debugging-toolkit": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "dependency-management": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "deployment-strategies": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "deployment-validation": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "developer-essentials": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "distributed-debugging": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "documentation-generation": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "documentation-standards": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "dotnet-contribution": {
+    "total": 72,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "error-debugging": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "error-diagnostics": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "explanatory-output-style": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "feature-dev": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "framework-migration": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "frontend-design": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "frontend-mobile-development": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "frontend-mobile-security": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "full-stack-orchestration": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "functional-programming": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "game-development": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "git-pr-workflows": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "hookify": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "hr-legal-compliance": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "incident-response": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "javascript-typescript": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "julia-development": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "jvm-languages": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "kubernetes-operations": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "learning-output-style": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "llm-application-dev": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "machine-learning-ops": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "meigen-ai-design": {
+    "total": 72,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "multi-platform-apps": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "observability-monitoring": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "payment-processing": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "performance-testing-review": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "plugin-eval": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "pr-review-toolkit": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "protect-mcp": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "python-development": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "qa-orchestra": {
+    "total": 47,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "quantitative-trading": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "ralph-wiggum": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "reverse-engineering": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "review-agent-governance": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "security-compliance": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "security-guidance": {
+    "total": 52,
+    "breakdown": {
+      "source_trust": 100,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 20,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "security-scanning": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "seo-analysis-monitoring": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "seo-content-creation": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "seo-technical-optimization": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "shell-scripting": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "signed-audit-trails": {
+    "total": 69,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "startup-business-analyst": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "systems-programming": {
+    "total": 59,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "tdd-workflows": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "team-collaboration": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "ui-design": {
+    "total": 75,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 100,
+      "freshness": 50,
+      "completeness": 100,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "unit-testing": {
+    "total": 56,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 80,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  },
+  "web-scripting": {
+    "total": 53,
+    "breakdown": {
+      "source_trust": 80,
+      "documentation": 20,
+      "freshness": 50,
+      "completeness": 60,
+      "popularity": 20,
+      "validation": 100
+    },
+    "computed_at": "2026-05-11T18:31:02.554286+00:00"
+  }
+}

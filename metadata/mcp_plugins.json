@@ -1,0 +1,10 @@
+{
+  "plugins": [],
+  "stats": {
+    "total": 30,
+    "allowlist_filtered": 29,
+    "install_filtered": 0,
+    "auth_filtered": 1,
+    "generated": 0
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-11T18:31:02.780069+00:00",
+  "sync_runs_total": 1,
+  "sync_runs_success": 1,
+  "sync_runs_degraded": 0,
+  "feedback_total": 1,
+  "feedback_open": 1,
+  "latest_sync": {
+    "recorded_at": "2026-05-11T18:31:02.743067+00:00",
+    "run_status": "success",
+    "marketplace_plugins": 93,
+    "validation_valid": 92,
+    "validation_invalid": 0,
+    "mirrored_plugins": 81,
+    "link_only_plugins": 12,
+    "staging_pending": 0,
+    "staging_promoted": 93,
+    "staging_ttl_rejected": 0,
+    "success_streak": 1,
+    "target_window": 7,
+    "window_complete": false
+  }
+}
