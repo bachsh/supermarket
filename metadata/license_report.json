@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 93,
-    "mirrored": 81,
+    "total": 94,
+    "mirrored": 82,
     "link_only": 12
   },
   "licenses": [
@@ -651,6 +651,13 @@
     },
     {
       "name": "review-agent-governance",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "ship-mate",
       "license": "MIT",
       "classification": "permissive",
       "mirrored": true,

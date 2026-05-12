@@ -1,4 +1,5 @@
 ## Staged Plugins Pending Review
 
-- Total pending: 0
+- Total pending: 1
 
+- `ship-mate` (new-plugin)

@@ -934,6 +934,16 @@
       "upstream_repo": "https://github.com/wshobson/agents.git",
       "source": "./plugins/wshobson-review-agent-governance",
       "mirrored_path": "plugins/wshobson-review-agent-governance"
+    },
+    {
+      "name": "ship-mate",
+      "version": "1.0.0",
+      "description": "Your AI development teammate. Turns a story file into a shipped, reviewed, and tested feature via orchestrator \u2192 architect \u2192 developer \u2192 PR reviewer \u2192 QA \u2192 Playwright.",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-ship-mate",
+      "mirrored_path": "plugins/wshobson-ship-mate"
     }
   ]
 }

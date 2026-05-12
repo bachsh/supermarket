@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-05-11T18:31:02.704759+00:00",
+  "generated_at": "2026-05-12T05:38:39.413212+00:00",
   "summary": {
-    "total_plugins": 93,
+    "total_plugins": 94,
     "invalid_plugins": 0,
     "link_only_plugins": 12,
     "unknown_license_plugins": 12
   },
   "source_counts": {
     "anthropic": 12,
-    "wshobson": 81
+    "wshobson": 82
   },
   "warnings": [
     "source-empty:davila7",
