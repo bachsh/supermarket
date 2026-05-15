@@ -1,12 +1,19 @@
 {
-  "updated_at": "2026-05-14T05:47:49.829059+00:00",
+  "updated_at": "2026-05-15T05:54:46.676590+00:00",
   "entries": [
+    {
+      "name": "meigen-ai-design",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-15T05:54:46.676590+00:00",
+      "fingerprint": "8944e0eb769ec2c98363a9f5690729f748a1f8bb5d19587886a2df1d07aafb84"
+    },
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-14T05:47:49.829059+00:00",
-      "updated_at": "2026-05-14T05:47:49.829059+00:00",
+      "first_seen": "2026-05-15T05:54:46.676590+00:00",
+      "updated_at": "2026-05-15T05:54:46.676590+00:00",
       "fingerprint": "d8e429fda7df3266a278dad2777bd3f7dd3f0cd2076187c015e8a1ed693a9ccb"
     }
   ],
@@ -799,7 +806,7 @@
     },
     "meigen-ai-design": {
       "name": "meigen-ai-design",
-      "version": "1.0.5",
+      "version": "1.0.7",
       "description": "AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server",
       "source_id": "wshobson",
       "source_priority": 2,

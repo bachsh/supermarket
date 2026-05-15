@@ -616,6 +616,31 @@
           "statusMessage": "Pilot integration in progress; will re-activate when /m/graffeo/mcp is wired up.",
           "publishedAt": "2026-05-07T15:29:26.296543Z",
           "updatedAt": "2026-05-07T16:29:51.153646Z",
+          "isLatest": false
+        }
+      }
+    },
+    {
+      "server": {
+        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+        "name": "ai.agenticshelf/graffeo",
+        "description": "Live MCP catalog for Graffeo Coffee Roasting - Simply the World's Finest Coffee since 1935.",
+        "title": "Graffeo Coffee Roasting",
+        "version": "1.0.2",
+        "websiteUrl": "https://www.graffeo.com",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://api.agenticshelf.ai/m/graffeo/mcp"
+          }
+        ]
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "statusChangedAt": "2026-05-14T20:40:06.442182Z",
+          "publishedAt": "2026-05-14T20:40:06.442182Z",
+          "updatedAt": "2026-05-14T20:40:06.442182Z",
           "isLatest": true
         }
       }
@@ -889,40 +914,6 @@
           "isLatest": false
         }
       }
-    },
-    {
-      "server": {
-        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-        "name": "ai.ankimcp/anki-mcp-server",
-        "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
-        "title": "Anki MCP Server",
-        "repository": {
-          "url": "https://github.com/ankimcp/anki-mcp-server",
-          "source": "github"
-        },
-        "version": "0.18.5",
-        "websiteUrl": "https://ankimcp.ai",
-        "packages": [
-          {
-            "registryType": "npm",
-            "registryBaseUrl": "https://registry.npmjs.org",
-            "identifier": "@ankimcp/anki-mcp-server",
-            "version": "0.18.5",
-            "transport": {
-              "type": "stdio"
-            }
-          }
-        ]
-      },
-      "_meta": {
-        "io.modelcontextprotocol.registry/official": {
-          "status": "active",
-          "statusChangedAt": "2026-04-24T08:37:54.056077Z",
-          "publishedAt": "2026-04-24T08:37:54.056077Z",
-          "updatedAt": "2026-04-24T08:37:54.056077Z",
-          "isLatest": true
-        }
-      }
     }
   ],
   "meta": {
@@ -930,5 +921,5 @@
     "limit": 200,
     "source": "https://registry.modelcontextprotocol.io/v0/servers"
   },
-  "fetchedAt": "2026-05-14T05:47:49.344447+00:00"
+  "fetchedAt": "2026-05-15T05:54:46.185292+00:00"
 }

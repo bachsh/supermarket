@@ -5,7 +5,7 @@
   "owner": {
     "name": "your-org"
   },
-  "generatedAt": "2026-05-14T05:47:49.874490+00:00",
+  "generatedAt": "2026-05-15T05:54:46.726143+00:00",
   "plugins": [
     {
       "name": "accessibility-compliance",
@@ -694,7 +694,7 @@
     },
     {
       "name": "meigen-ai-design",
-      "version": "1.0.5",
+      "version": "1.0.7",
       "description": "AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server",
       "source": "./plugins/wshobson-meigen-ai-design",
       "x-supermarket-source": "wshobson",
