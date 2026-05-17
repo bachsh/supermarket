@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-05-16T05:27:12.450308+00:00",
+  "updated_at": "2026-05-17T05:48:30.283066+00:00",
   "entries": [
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-16T05:27:12.450308+00:00",
-      "updated_at": "2026-05-16T05:27:12.450308+00:00",
+      "first_seen": "2026-05-17T05:48:30.283066+00:00",
+      "updated_at": "2026-05-17T05:48:30.283066+00:00",
       "fingerprint": "d8e429fda7df3266a278dad2777bd3f7dd3f0cd2076187c015e8a1ed693a9ccb"
     }
   ],
