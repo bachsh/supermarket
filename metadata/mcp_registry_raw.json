@@ -707,6 +707,85 @@
     },
     {
       "server": {
+        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+        "name": "ai.agenticterminal/directory",
+        "description": "Verified merchants accepting agentic payments on Lightning/L402/BOLT12/USDT \u2014 search, verify, pay.",
+        "title": "Agentic Terminal Directory",
+        "repository": {
+          "url": "https://github.com/observer-protocol/at-directory",
+          "source": "github"
+        },
+        "version": "1.0.0",
+        "websiteUrl": "https://agenticterminal.ai",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://mcp.agenticterminal.ai/mcp"
+          }
+        ],
+        "_meta": {
+          "io.modelcontextprotocol.registry/publisher-provided": {
+            "ai.agenticterminal": {
+              "anonymous_access": "Reads (search, get, verify) require no credential. Bring your own wallet/rails and transact directly with the merchant \u2014 the directory is never in the payment path.",
+              "categories": [
+                "agent-commerce",
+                "payments",
+                "bitcoin-lightning",
+                "stablecoin-usdt",
+                "directory"
+              ],
+              "credibility": [
+                "Counterparty-verified, not self-claimed: Bitrefill's Tier-2 status comes from a real autonomous-agent Lightning purchase, preimage-verified on the record. Proof a transaction settled, not a marketing checkbox.",
+                "Not a static list: verify_payment_endpoint live-probes a rail and is explicit when a rail is attestation-only rather than rubber-stamping it. The directory tells you what it actually knows."
+              ],
+              "example_calls": [
+                "search_merchants({ rail: \"lightning\", category: \"gift-cards\" })  ->  Bitrefill (Tier 2) ranked first",
+                "get_merchant({ id: \"bitrefill\" })  ->  rails, agent_endpoints, attestation",
+                "verify_payment_endpoint({ merchant_id: \"bitrefill\", rail: \"lightning\" })  ->  live status + evidence"
+              ],
+              "pitch": "An agent-callable directory of real merchants you can pay over Lightning, L402, BOLT12 or USDT \u2014 each carrying an Observer Protocol trust tier. Discover anonymously with no credential or signup, inspect a merchant's payment surface, and verify a rail is live before you send funds. Built for autonomous agents that bring their own wallet and rails.",
+              "tools": [
+                {
+                  "description": "Filter merchants by rail, chain, category, trust tier and accepts_usdc; returns ranked summaries plus your resolved auth state.",
+                  "name": "search_merchants"
+                },
+                {
+                  "description": "Full record for one merchant: every rail, payment endpoints, agent_endpoints (MCP/REST/API docs) and any OP attestation.",
+                  "name": "get_merchant"
+                },
+                {
+                  "description": "Live, rail-specific health check of a merchant's payment surface before you transact \u2014 and honest about probe-able vs attestation-only rails.",
+                  "name": "verify_payment_endpoint"
+                },
+                {
+                  "description": "Category taxonomy with live merchant counts.",
+                  "name": "list_categories"
+                },
+                {
+                  "description": "Supported rails and USDT chains with live merchant counts.",
+                  "name": "list_rails"
+                },
+                {
+                  "description": "Your resolved credential/auth state and rate-limit tier.",
+                  "name": "whoami"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "statusChangedAt": "2026-05-19T15:17:01.794422Z",
+          "publishedAt": "2026-05-19T15:17:01.794422Z",
+          "updatedAt": "2026-05-19T15:17:01.794422Z",
+          "isLatest": true
+        }
+      }
+    },
+    {
+      "server": {
         "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
         "name": "ai.agentrapay/agentra",
         "description": "Identity oracle and trust layer for autonomous AI agents. Bidirectional KYA and trust scoring.",
@@ -877,40 +956,6 @@
           "isLatest": true
         }
       }
-    },
-    {
-      "server": {
-        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-        "name": "ai.ankimcp/anki-mcp-server",
-        "description": "MCP server for Anki flashcards: adaptive review, notes, media, and deck management via AnkiConnect.",
-        "title": "Anki MCP Server",
-        "repository": {
-          "url": "https://github.com/ankimcp/anki-mcp-server",
-          "source": "github"
-        },
-        "version": "0.18.4",
-        "websiteUrl": "https://ankimcp.ai",
-        "packages": [
-          {
-            "registryType": "npm",
-            "registryBaseUrl": "https://registry.npmjs.org",
-            "identifier": "@ankimcp/anki-mcp-server",
-            "version": "0.18.4",
-            "transport": {
-              "type": "stdio"
-            }
-          }
-        ]
-      },
-      "_meta": {
-        "io.modelcontextprotocol.registry/official": {
-          "status": "active",
-          "statusChangedAt": "2026-04-23T19:01:04.63097Z",
-          "publishedAt": "2026-04-23T19:01:04.63097Z",
-          "updatedAt": "2026-04-23T19:01:04.63097Z",
-          "isLatest": false
-        }
-      }
     }
   ],
   "meta": {
@@ -918,5 +963,5 @@
     "limit": 200,
     "source": "https://registry.modelcontextprotocol.io/v0/servers"
   },
-  "fetchedAt": "2026-05-19T06:07:45.726239+00:00"
+  "fetchedAt": "2026-05-20T06:07:43.931119+00:00"
 }
