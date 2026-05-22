@@ -852,7 +852,7 @@
     },
     {
       "name": "meigen-ai-design",
-      "version": "1.0.7",
+      "version": "1.0.8",
       "description": "AI image generation with creative workflow orchestration, prompt engineering, and curated inspiration library via MCP server",
       "source_id": "wshobson",
       "source_priority": 2,
