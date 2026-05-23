@@ -1,26 +1,572 @@
 {
-  "updated_at": "2026-05-22T06:07:18.225710+00:00",
+  "updated_at": "2026-05-23T05:39:12.570379+00:00",
   "entries": [
     {
-      "name": "meigen-ai-design",
+      "name": "accessibility-compliance",
       "status": "auto_promoted",
       "reason": "auto-promoted",
-      "updated_at": "2026-05-22T06:07:18.225710+00:00",
-      "fingerprint": "9321e513238f7df629d5971586490c969ef3a69b61614adf19e0e3835f159e91"
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c795a3a55a6898b2f69e9525d36334df614903369dde9b6abf104f42387d2285"
+    },
+    {
+      "name": "agent-orchestration",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "621f664705006f30b6945abed514304b7e69f677057a70f24585a653f91f785d"
+    },
+    {
+      "name": "agent-teams",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "b73e48242555a5f03b2fb3d57ced26c53de95d60bdb3cf3c3b5c7c95a56130b3"
+    },
+    {
+      "name": "api-scaffolding",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "aa1c9d94283efc82c1939fa07fca4a4d11fe1f3f52f05aa924b107b1e6fc4665"
+    },
+    {
+      "name": "api-testing-observability",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ce3a7a15ea6eb982d0ead758c8395a53dfed12f8d7f203c0bead3cd8eb264d7b"
+    },
+    {
+      "name": "application-performance",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "538dac511842b2d70dd6895ea5c1ae50deb24381a2f3dea5aa2c488307351008"
+    },
+    {
+      "name": "arm-cortex-microcontrollers",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "3c28c6f51b636a9c27751d7f30024d165e7e5d8bc1d95e48a7f6113593e2b125"
+    },
+    {
+      "name": "backend-api-security",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "8b336c7539d51100b8ba91fac7d1d95ef56c4e86e3b6324717c21f4c62d4d947"
+    },
+    {
+      "name": "backend-development",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "1175ea1bfe65e2f229ff6343106a11dfb35566bc3d43e44c38fdecc437fd6f3b"
+    },
+    {
+      "name": "block-no-verify",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c8bc5838c0d38d54f48fdfa84238c3d4f1f3a960d82b148b1c13c06b5f7e87b3"
+    },
+    {
+      "name": "blockchain-web3",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "0ce75b9286f11f89d3c1e48093d09f482a155ee00dfcf1670172af5bd5f0b0a8"
+    },
+    {
+      "name": "brand-landingpage",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "6ec17e3b44c8371fdeeef643221c8e69ff2996595c74d5a268eba393e3a035cb"
+    },
+    {
+      "name": "business-analytics",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "9819b77444fe8c30ad50c92e1c413e8f5897ebf65fdb9218aa4e21de5921544f"
+    },
+    {
+      "name": "c4-architecture",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "4d7630a40d174c7a8bc67fccc60288883fb588e30a3d8f8ad040b2f1878fd732"
+    },
+    {
+      "name": "cicd-automation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "dee525889aeb7bf90919298fbf5d488f6a92d501eda1122f41d461bfaa468a01"
+    },
+    {
+      "name": "cloud-infrastructure",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "7b03f553c4345bb6f8059a8e3c94960e7cae0d046cefa8d0b303a987fee59015"
+    },
+    {
+      "name": "code-documentation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ebf9c08ed0f273dfb851eaf2d6b527faac5afb0d55b958148728b378d918d1fd"
+    },
+    {
+      "name": "code-refactoring",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "38c6f4ddd3f3b8485ea19ee4294d60f4f1a8c93d24379ffbc3f1a1b9c6f2f90f"
+    },
+    {
+      "name": "codebase-cleanup",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f8ddadc8d104e4b3589a0a348399c00f7395e6c1ef480c6665b73a7d6a361788"
+    },
+    {
+      "name": "comprehensive-review",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "41094239f4c9e80ee4bf4ce14cc59b42eab5800c1d2ae55845319fbb4938cafd"
+    },
+    {
+      "name": "conductor",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "666368873e31ff1d6f177b6f5e92896983f3460e1505d3ac59312044d2f867e4"
+    },
+    {
+      "name": "content-marketing",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "0873e9d42d21c8f9a374c90c9c526304dd75aec2e7750990eee4b2b217639b9d"
+    },
+    {
+      "name": "context-management",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "868351ed89ee5e024eba2d1a1ea5175c3b9f63613b6ebdfc664b5830c04213b0"
+    },
+    {
+      "name": "customer-sales-automation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "a9f203bfdbc3f8a460430cac2217370bd81a36a3158c7d8d651a5231625ee6ef"
+    },
+    {
+      "name": "data-engineering",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "30014138d086636592979d3058bb7dc622b09379255711e0924e3f8d4f4205c8"
+    },
+    {
+      "name": "data-validation-suite",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c4a3e52a4b44773e823003c25930a5d7236ba27b8edb6acc47dd621385cc7533"
+    },
+    {
+      "name": "database-cloud-optimization",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "977da7bdf4486397f8b82e03716f00a1da86c8516eda6b6851f014ae0de325ca"
+    },
+    {
+      "name": "database-design",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "8128fb3a7d422fcf700983b893efd0a42b055c63a5ff36bdcc39a2d13451e73f"
+    },
+    {
+      "name": "database-migrations",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f9489b12f0230e4c79d30705bb82ede12cef683fd78b55a7c73309286731454f"
+    },
+    {
+      "name": "debugging-toolkit",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f137c116ceeecf01aa705c4fde22d8ea0b22a24bbc8746fddfeca3992aab7431"
+    },
+    {
+      "name": "dependency-management",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f5df407b4ca6226bfce25eef8e96ff76bd00a742c1eb11f27db74edc79489635"
+    },
+    {
+      "name": "deployment-strategies",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "9fb90431b0ed740cd102daf10f42e5291fede74500700da35ab4c5fb3623bdc8"
+    },
+    {
+      "name": "deployment-validation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "1eef317a5858d3481d2200f326870086dfa2c864bc63c8bd7cb412b656bbdd98"
+    },
+    {
+      "name": "developer-essentials",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ecad78b69975c016ebd8aedbbd6b9bc14d3d8fc0e9b97e6cf6bdffcf4b2ad70c"
+    },
+    {
+      "name": "distributed-debugging",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "d61e985dea254489fe0bbf1c4020386cf9a16e95df3626ee53e863847919c17a"
+    },
+    {
+      "name": "documentation-generation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "eb9470f220691f4bfc7f5bb01ba55b53fb928167d2dc76b4055b5f6c25109403"
+    },
+    {
+      "name": "documentation-standards",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "dbd20065eb192727e60ac7a2aae296ac060693674c2efc8881c10d9af4b1475b"
+    },
+    {
+      "name": "dotnet-contribution",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ce4a3c57e8434b78c1387f2354e01697d83a5b714bacdac5a385464b44796da3"
+    },
+    {
+      "name": "error-debugging",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f82d8a1118adfb19fb09ebac819e4f4d75ca2df93fe098c746eacb9d6acdd45e"
+    },
+    {
+      "name": "error-diagnostics",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "fdb3e677ec5a269b4289cffd834cb3c626bd9a9660121a243696f11853501c24"
+    },
+    {
+      "name": "framework-migration",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "d3333fe3a7394a459e70aad85befa2b154bafb8a61ec76c86955523ce9720889"
+    },
+    {
+      "name": "frontend-mobile-development",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f0774690afafd4fdc09cd98ea077cb43da8e57080cea1d876ea10ca1b43f8989"
+    },
+    {
+      "name": "frontend-mobile-security",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "e29bf98b3fa9ef2facbe308f53e982a7f5aa2f9ce1db7f646e1794647fe27f5a"
+    },
+    {
+      "name": "full-stack-orchestration",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "9df2cf58650a4f06444430ce78e99ea41c416ef031ddd5df01c01d27b4b6cfd7"
+    },
+    {
+      "name": "functional-programming",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "15d17940b8f82a867a6f20c3533485827e9c26b61ae956edc75007cd7a253449"
+    },
+    {
+      "name": "game-development",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "fb55d443eb79b152fa891590d80e22342cd4854d8300096a7038a98181489f00"
+    },
+    {
+      "name": "git-pr-workflows",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "19c6fe8fe8b54ee0be09ca34073f7ae2111710cf910f202f7b0bb8d59dc260f0"
+    },
+    {
+      "name": "hr-legal-compliance",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c33904d587f1228cbf2084d092e304a8ec7d4260e7af82884adb152800f3a47d"
+    },
+    {
+      "name": "incident-response",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "d8bbb530404f5379d6b48e22e556cccaad0bbdf7b47ef72a73abf7601dc44dba"
+    },
+    {
+      "name": "javascript-typescript",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "a3a706e5e1c9e8b0385cf23ad20c4e64525782857a1cb4be3c7bdd692658fcd3"
+    },
+    {
+      "name": "julia-development",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "16413c3d43062a1e89296b16ab739310469ff5b64981a962b89085050b832da5"
+    },
+    {
+      "name": "jvm-languages",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "218114ccf08f4121066ed8b1b1d5838cb82f3d6b6d0c739a2a9870ae3c3af28e"
+    },
+    {
+      "name": "kubernetes-operations",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "8b8f61f2da79b4c907239c3beac005bd711eedfb97b1dd990fe0385abf88220c"
+    },
+    {
+      "name": "llm-application-dev",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "b2ecfc9367f7785a98aa0a25072ca8a8ba58109e7982400b8f02e7a0be1af41c"
+    },
+    {
+      "name": "machine-learning-ops",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "da16f77b829116fb0b97be017e1519ac9065fb77aa431c701302be941a3e779f"
+    },
+    {
+      "name": "multi-platform-apps",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "903a627e2c6a9e9a7c8ba79f5c58fa63137e6d00b7606fe584b8c7e268e5e67a"
+    },
+    {
+      "name": "observability-monitoring",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "342ab00bcda13d4db36e4fbde5f694ce0ee41b9f27d3f559bb89bd70f1d861ff"
+    },
+    {
+      "name": "payment-processing",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ac17a26c07093fabaccf750bad7277ea8b2701902151453438f27a5a21e7a300"
+    },
+    {
+      "name": "performance-testing-review",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "be2ae89b1794c80232f783488720fd54113acf4e7e2e86484d8da5b3d2b18004"
+    },
+    {
+      "name": "plugin-eval",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "9e7cad4665a98ac3c1146448caacf93c963a6689ef2bf0ff65376c89a2b07c90"
+    },
+    {
+      "name": "protect-mcp",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c0d97a0ffdf34d38b461c8f34132fb7155d2dbacfb45b81fe25d3841c3be8376"
+    },
+    {
+      "name": "python-development",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "a1a1a6e297ee11f6420e3ad65988c0bab2044240a131f7ed2e1a4fb24c8a8e1b"
+    },
+    {
+      "name": "quantitative-trading",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "f737988debdcefb2f8c18f06094158be50de1e0c7ec9cacbad2c6cbf0bca4c0d"
+    },
+    {
+      "name": "reverse-engineering",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "71710f1b02acad2ea1a3725d2a0af91153a71ac5ed18d17a840ff5c6352ad0cf"
+    },
+    {
+      "name": "review-agent-governance",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "bfa2327c547723797f12caef542e2e03da122a2d3b4ff83f00cabac145267db6"
+    },
+    {
+      "name": "security-compliance",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "ff3f07fe8871470f07bf246d0b7c76c2ae783323afeb6fe829037844861cca67"
+    },
+    {
+      "name": "security-scanning",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "1bcccd7771cc7a079b35f7d24d69c4a2e692f04c6331151f8dd5bb55dd2d10fb"
+    },
+    {
+      "name": "seo-analysis-monitoring",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "27706a82e0016e89a3dcc1c556c4f340323864bf2c9058d4a1579844d9c48b1d"
+    },
+    {
+      "name": "seo-content-creation",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "4bb73142bd45643d6cc81f905ea31bb96b3278ed9198f11b5940886bc1f1d829"
+    },
+    {
+      "name": "seo-technical-optimization",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "78b3083a3bf400bfa617ac162b6a09d178874d24bec07b6952f1fa4ea2363d4d"
+    },
+    {
+      "name": "shell-scripting",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "3621abc30ce21140c50d4610de51b90c21e0cf90e234a9a60ae64f5bff44e391"
     },
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-22T06:07:18.225710+00:00",
-      "updated_at": "2026-05-22T06:07:18.225710+00:00",
-      "fingerprint": "d8e429fda7df3266a278dad2777bd3f7dd3f0cd2076187c015e8a1ed693a9ccb"
+      "first_seen": "2026-05-23T05:39:12.570379+00:00",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "51b23feac3dd93d6fe5abd7973411b7845eb0878e6a66c4e4eef0b7fa8b5ff0b"
+    },
+    {
+      "name": "signed-audit-trails",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "56755feabe784837bf17dbeb750c1cc0fa7f983c140cdf5ae7fa71eae7ef42f5"
+    },
+    {
+      "name": "startup-business-analyst",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "c2720f72a4314eac2a05bc7c689c16c38e8c8e06d7615e949e72413d2f3f5ab6"
+    },
+    {
+      "name": "systems-programming",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "07820bd5f963aa8b7af3583e90bf6dfc512ce29d05c5579965e391e4a8f7896a"
+    },
+    {
+      "name": "tdd-workflows",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "1cdcb415d157366fd82b53d87baa82d27e09d4062c7f4b49b8e458a7481b8bdc"
+    },
+    {
+      "name": "team-collaboration",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "8930f83fa627a0cd702fdcfa3afd732b1f182c781f26fbe27df79d8b673d7912"
+    },
+    {
+      "name": "ui-design",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "d93dcbe64f605c6bf6ed40e9a7790b7038f1b7c8d34ca03842be189316006ab0"
+    },
+    {
+      "name": "unit-testing",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "5a22c7f94d9aa6caba9c5eb20e4f75786bb3c87b88f184282badfbb453df4539"
+    },
+    {
+      "name": "web-scripting",
+      "status": "auto_promoted",
+      "reason": "auto-promoted",
+      "updated_at": "2026-05-23T05:39:12.570379+00:00",
+      "fingerprint": "27d5495e48c55fc86ffabc195d679f8deacebfac3899d4ba7d8183327d108771"
     }
   ],
   "promoted_plugins": {
     "accessibility-compliance": {
       "name": "accessibility-compliance",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "WCAG accessibility auditing, compliance validation, UI testing for screen readers, keyboard navigation, and inclusive design",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -32,7 +578,7 @@
     },
     "agent-orchestration": {
       "name": "agent-orchestration",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Multi-agent system optimization, agent improvement workflows, and context management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -58,7 +604,7 @@
     },
     "agent-teams": {
       "name": "agent-teams",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Orchestrate multi-agent teams for parallel code review, hypothesis-driven debugging, and coordinated feature development using Claude Code's Agent Teams",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -70,7 +616,7 @@
     },
     "api-scaffolding": {
       "name": "api-scaffolding",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -82,7 +628,7 @@
     },
     "api-testing-observability": {
       "name": "api-testing-observability",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -94,7 +640,7 @@
     },
     "application-performance": {
       "name": "application-performance",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Application profiling, performance optimization, and observability for frontend and backend systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -106,7 +652,7 @@
     },
     "arm-cortex-microcontrollers": {
       "name": "arm-cortex-microcontrollers",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "ARM Cortex-M firmware development for Teensy, STM32, nRF52, and SAMD with peripheral drivers and memory safety patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -118,7 +664,7 @@
     },
     "backend-api-security": {
       "name": "backend-api-security",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -130,7 +676,7 @@
     },
     "backend-development": {
       "name": "backend-development",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -142,7 +688,7 @@
     },
     "block-no-verify": {
       "name": "block-no-verify",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "PreToolUse hook that prevents AI agents from using --no-verify, --no-gpg-sign, and other bypass flags that skip git hooks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -154,7 +700,7 @@
     },
     "blockchain-web3": {
       "name": "blockchain-web3",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -166,7 +712,7 @@
     },
     "brand-landingpage": {
       "name": "brand-landingpage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Guides developers from brand discovery through iterative design to deployment-ready HTML via Stitch.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -178,7 +724,7 @@
     },
     "business-analytics": {
       "name": "business-analytics",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -190,7 +736,7 @@
     },
     "c4-architecture": {
       "name": "c4-architecture",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -202,7 +748,7 @@
     },
     "cicd-automation": {
       "name": "cicd-automation",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -228,7 +774,7 @@
     },
     "cloud-infrastructure": {
       "name": "cloud-infrastructure",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Cloud architecture design for AWS/Azure/GCP/OCI, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -240,7 +786,7 @@
     },
     "code-documentation": {
       "name": "code-documentation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -252,7 +798,7 @@
     },
     "code-refactoring": {
       "name": "code-refactoring",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Code cleanup, refactoring automation, and technical debt management with context restoration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -278,7 +824,7 @@
     },
     "codebase-cleanup": {
       "name": "codebase-cleanup",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Technical debt reduction, dependency updates, and code refactoring automation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -304,7 +850,7 @@
     },
     "comprehensive-review": {
       "name": "comprehensive-review",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Multi-perspective code analysis covering architecture, security, and best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -316,7 +862,7 @@
     },
     "conductor": {
       "name": "conductor",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Context-Driven Development plugin that transforms Claude Code into a project management tool with structured workflow: Context \u2192 Spec & Plan \u2192 Implement",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -328,7 +874,7 @@
     },
     "content-marketing": {
       "name": "content-marketing",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Content marketing strategy, web research, and information synthesis for marketing operations",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -340,7 +886,7 @@
     },
     "context-management": {
       "name": "context-management",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Context persistence, restoration, and long-running conversation management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -352,7 +898,7 @@
     },
     "customer-sales-automation": {
       "name": "customer-sales-automation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -364,7 +910,7 @@
     },
     "data-engineering": {
       "name": "data-engineering",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -376,7 +922,7 @@
     },
     "data-validation-suite": {
       "name": "data-validation-suite",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -388,7 +934,7 @@
     },
     "database-cloud-optimization": {
       "name": "database-cloud-optimization",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database query optimization, cloud cost optimization, and scalability improvements",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -400,7 +946,7 @@
     },
     "database-design": {
       "name": "database-design",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database architecture, schema design, and SQL optimization for production systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -412,7 +958,7 @@
     },
     "database-migrations": {
       "name": "database-migrations",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database migration automation, observability, and cross-database migration strategies",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -424,7 +970,7 @@
     },
     "debugging-toolkit": {
       "name": "debugging-toolkit",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Interactive debugging, developer experience optimization, and smart debugging workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -436,7 +982,7 @@
     },
     "dependency-management": {
       "name": "dependency-management",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Dependency auditing, version management, and security vulnerability scanning",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -448,7 +994,7 @@
     },
     "deployment-strategies": {
       "name": "deployment-strategies",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Deployment patterns, rollback automation, and infrastructure templates",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -460,7 +1006,7 @@
     },
     "deployment-validation": {
       "name": "deployment-validation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Pre-deployment checks, configuration validation, and deployment readiness assessment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -472,7 +1018,7 @@
     },
     "developer-essentials": {
       "name": "developer-essentials",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -484,7 +1030,7 @@
     },
     "distributed-debugging": {
       "name": "distributed-debugging",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Distributed system tracing and debugging across microservices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -496,7 +1042,7 @@
     },
     "documentation-generation": {
       "name": "documentation-generation",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -508,7 +1054,7 @@
     },
     "documentation-standards": {
       "name": "documentation-standards",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "HADS (Human-AI Document Standard) \u2014 semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token consumption by separating machine-critical facts from human context.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -520,7 +1066,7 @@
     },
     "dotnet-contribution": {
       "name": "dotnet-contribution",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Comprehensive .NET backend development with C#, ASP.NET Core, Entity Framework Core, and Dapper for production-grade applications",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -532,7 +1078,7 @@
     },
     "error-debugging": {
       "name": "error-debugging",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Error analysis, trace debugging, and multi-agent problem diagnosis",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -544,7 +1090,7 @@
     },
     "error-diagnostics": {
       "name": "error-diagnostics",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Error tracing, root cause analysis, and smart debugging for production systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -584,7 +1130,7 @@
     },
     "framework-migration": {
       "name": "framework-migration",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Framework updates, migration planning, and architectural transformation workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -610,7 +1156,7 @@
     },
     "frontend-mobile-development": {
       "name": "frontend-mobile-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Frontend UI development and mobile application implementation across platforms",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -622,7 +1168,7 @@
     },
     "frontend-mobile-security": {
       "name": "frontend-mobile-security",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -634,7 +1180,7 @@
     },
     "full-stack-orchestration": {
       "name": "full-stack-orchestration",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "End-to-end feature orchestration with testing, security, performance, and deployment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -646,7 +1192,7 @@
     },
     "functional-programming": {
       "name": "functional-programming",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Functional programming with Elixir, OTP patterns, Phoenix framework, and distributed systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -658,7 +1204,7 @@
     },
     "game-development": {
       "name": "game-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Unity game development with C# scripting, Minecraft server plugin development with Bukkit/Spigot APIs",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -670,7 +1216,7 @@
     },
     "git-pr-workflows": {
       "name": "git-pr-workflows",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Git workflow automation, pull request enhancement, and team onboarding processes",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -696,7 +1242,7 @@
     },
     "hr-legal-compliance": {
       "name": "hr-legal-compliance",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -708,7 +1254,7 @@
     },
     "incident-response": {
       "name": "incident-response",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Production incident management, triage workflows, and automated incident resolution",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -720,7 +1266,7 @@
     },
     "javascript-typescript": {
       "name": "javascript-typescript",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -732,7 +1278,7 @@
     },
     "julia-development": {
       "name": "julia-development",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Modern Julia development with Julia 1.10+, package management, scientific computing, high-performance numerical code, and production best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -744,7 +1290,7 @@
     },
     "jvm-languages": {
       "name": "jvm-languages",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -756,7 +1302,7 @@
     },
     "kubernetes-operations": {
       "name": "kubernetes-operations",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -782,7 +1328,7 @@
     },
     "llm-application-dev": {
       "name": "llm-application-dev",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "description": "LLM application development with LangGraph, RAG systems, vector search, and AI agent architectures for Claude 4.6 and GPT-5.4",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -794,7 +1340,7 @@
     },
     "machine-learning-ops": {
       "name": "machine-learning-ops",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -818,7 +1364,7 @@
     },
     "multi-platform-apps": {
       "name": "multi-platform-apps",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -830,7 +1376,7 @@
     },
     "observability-monitoring": {
       "name": "observability-monitoring",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -842,7 +1388,7 @@
     },
     "payment-processing": {
       "name": "payment-processing",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -854,7 +1400,7 @@
     },
     "performance-testing-review": {
       "name": "performance-testing-review",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Performance analysis, test coverage review, and AI-powered code quality assessment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -866,7 +1412,7 @@
     },
     "plugin-eval": {
       "name": "plugin-eval",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Three-layer quality evaluation framework for Claude Code plugins with Elo ranking",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -892,7 +1438,7 @@
     },
     "protect-mcp": {
       "name": "protect-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Cedar policy enforcement + Ed25519 signed receipts for every Claude Code tool call. First cryptographic governance plugin \u2014 decisions are policy-gated before they run and every decision produces a tamper-evident receipt verifiable offline.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -904,7 +1450,7 @@
     },
     "python-development": {
       "name": "python-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -931,7 +1477,7 @@
     },
     "quantitative-trading": {
       "name": "quantitative-trading",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Quantitative analysis, algorithmic trading strategies, financial modeling, portfolio risk management, and backtesting",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -957,7 +1503,7 @@
     },
     "reverse-engineering": {
       "name": "reverse-engineering",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Binary reverse engineering, malware analysis, firmware security, and software protection research for authorized security research, CTF competitions, and defensive security",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -969,7 +1515,7 @@
     },
     "review-agent-governance": {
       "name": "review-agent-governance",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Require a human approval signal before an AI agent can post PR reviews, comments, merges, or writes to CI configuration. Joins protect-mcp and signed-audit-trails in the governance category; composes with protect-mcp for runtime enforcement.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -981,7 +1527,7 @@
     },
     "security-compliance": {
       "name": "security-compliance",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1007,7 +1553,7 @@
     },
     "security-scanning": {
       "name": "security-scanning",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1019,7 +1565,7 @@
     },
     "seo-analysis-monitoring": {
       "name": "seo-analysis-monitoring",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Content freshness analysis, cannibalization detection, and authority building for SEO",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1031,7 +1577,7 @@
     },
     "seo-content-creation": {
       "name": "seo-content-creation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1043,7 +1589,7 @@
     },
     "seo-technical-optimization": {
       "name": "seo-technical-optimization",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1055,7 +1601,7 @@
     },
     "shell-scripting": {
       "name": "shell-scripting",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1067,7 +1613,7 @@
     },
     "signed-audit-trails": {
       "name": "signed-audit-trails",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Teaching skill: cookbook-style walkthrough for signed audit trails on every Claude Code tool call. Cedar policy, Ed25519 receipts, offline verification, CI/CD integration, SLSA composition. Pairs with the protect-mcp runtime plugin.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1079,7 +1625,7 @@
     },
     "startup-business-analyst": {
       "name": "startup-business-analyst",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "Comprehensive startup business analysis with market sizing (TAM/SAM/SOM), financial modeling, team planning, and strategic research for early-stage companies",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1091,7 +1637,7 @@
     },
     "systems-programming": {
       "name": "systems-programming",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1103,7 +1649,7 @@
     },
     "tdd-workflows": {
       "name": "tdd-workflows",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Test-driven development methodology with red-green-refactor cycles and code review",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1115,7 +1661,7 @@
     },
     "team-collaboration": {
       "name": "team-collaboration",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Team workflows, issue management, standup automation, and developer experience optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1127,7 +1673,7 @@
     },
     "ui-design": {
       "name": "ui-design",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "Comprehensive UI/UX design plugin for mobile (iOS, Android, React Native) and web applications with design systems, accessibility, and modern patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1139,7 +1685,7 @@
     },
     "unit-testing": {
       "name": "unit-testing",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Unit and integration test automation for Python and JavaScript with debugging support",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1151,7 +1697,7 @@
     },
     "web-scripting": {
       "name": "web-scripting",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Web scripting with PHP and Ruby for web applications, CMS development, and backend services",
       "source_id": "wshobson",
       "source_priority": 2,

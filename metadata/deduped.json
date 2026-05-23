@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "accessibility-compliance",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "WCAG accessibility auditing, compliance validation, UI testing for screen readers, keyboard navigation, and inclusive design",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -13,7 +13,7 @@
     },
     {
       "name": "agent-orchestration",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Multi-agent system optimization, agent improvement workflows, and context management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -37,7 +37,7 @@
     },
     {
       "name": "agent-teams",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Orchestrate multi-agent teams for parallel code review, hypothesis-driven debugging, and coordinated feature development using Claude Code's Agent Teams",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -48,7 +48,7 @@
     },
     {
       "name": "api-scaffolding",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "REST and GraphQL API scaffolding, framework selection, backend architecture, and API generation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -59,7 +59,7 @@
     },
     {
       "name": "api-testing-observability",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "API testing automation, request mocking, OpenAPI documentation generation, observability setup, and monitoring",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -70,7 +70,7 @@
     },
     {
       "name": "application-performance",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Application profiling, performance optimization, and observability for frontend and backend systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -81,7 +81,7 @@
     },
     {
       "name": "arm-cortex-microcontrollers",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "ARM Cortex-M firmware development for Teensy, STM32, nRF52, and SAMD with peripheral drivers and memory safety patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -92,7 +92,7 @@
     },
     {
       "name": "backend-api-security",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "API security hardening, authentication implementation, authorization patterns, rate limiting, and input validation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -103,7 +103,7 @@
     },
     {
       "name": "backend-development",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Backend API design, GraphQL architecture, workflow orchestration with Temporal, and test-driven backend development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -114,7 +114,7 @@
     },
     {
       "name": "block-no-verify",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "PreToolUse hook that prevents AI agents from using --no-verify, --no-gpg-sign, and other bypass flags that skip git hooks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -125,7 +125,7 @@
     },
     {
       "name": "blockchain-web3",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -136,7 +136,7 @@
     },
     {
       "name": "brand-landingpage",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Guides developers from brand discovery through iterative design to deployment-ready HTML via Stitch.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -147,7 +147,7 @@
     },
     {
       "name": "business-analytics",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Business metrics analysis, KPI tracking, financial reporting, and data-driven decision making",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -158,7 +158,7 @@
     },
     {
       "name": "c4-architecture",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Comprehensive C4 architecture documentation workflow with bottom-up code analysis, component synthesis, container mapping, and context diagram generation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -169,7 +169,7 @@
     },
     {
       "name": "cicd-automation",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "CI/CD pipeline configuration, GitHub Actions/GitLab CI workflow setup, and automated deployment pipeline orchestration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -193,7 +193,7 @@
     },
     {
       "name": "cloud-infrastructure",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Cloud architecture design for AWS/Azure/GCP/OCI, Kubernetes cluster configuration, Terraform infrastructure-as-code, hybrid cloud networking, and multi-cloud cost optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -204,7 +204,7 @@
     },
     {
       "name": "code-documentation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Documentation generation, code explanation, and technical writing with automated doc generation and tutorial creation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -215,7 +215,7 @@
     },
     {
       "name": "code-refactoring",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Code cleanup, refactoring automation, and technical debt management with context restoration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -239,7 +239,7 @@
     },
     {
       "name": "codebase-cleanup",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Technical debt reduction, dependency updates, and code refactoring automation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -263,7 +263,7 @@
     },
     {
       "name": "comprehensive-review",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Multi-perspective code analysis covering architecture, security, and best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -274,7 +274,7 @@
     },
     {
       "name": "conductor",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Context-Driven Development plugin that transforms Claude Code into a project management tool with structured workflow: Context \u2192 Spec & Plan \u2192 Implement",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -285,7 +285,7 @@
     },
     {
       "name": "content-marketing",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Content marketing strategy, web research, and information synthesis for marketing operations",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -296,7 +296,7 @@
     },
     {
       "name": "context-management",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Context persistence, restoration, and long-running conversation management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -307,7 +307,7 @@
     },
     {
       "name": "customer-sales-automation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Customer support workflow automation, sales pipeline management, email campaigns, and CRM integration",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -318,7 +318,7 @@
     },
     {
       "name": "data-engineering",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "ETL pipeline construction, data warehouse design, batch processing workflows, and data-driven feature development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -329,7 +329,7 @@
     },
     {
       "name": "data-validation-suite",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Schema validation, data quality monitoring, streaming validation pipelines, and input validation for backend APIs",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -340,7 +340,7 @@
     },
     {
       "name": "database-cloud-optimization",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database query optimization, cloud cost optimization, and scalability improvements",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -351,7 +351,7 @@
     },
     {
       "name": "database-design",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database architecture, schema design, and SQL optimization for production systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -362,7 +362,7 @@
     },
     {
       "name": "database-migrations",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Database migration automation, observability, and cross-database migration strategies",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -373,7 +373,7 @@
     },
     {
       "name": "debugging-toolkit",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Interactive debugging, developer experience optimization, and smart debugging workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -384,7 +384,7 @@
     },
     {
       "name": "dependency-management",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Dependency auditing, version management, and security vulnerability scanning",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -395,7 +395,7 @@
     },
     {
       "name": "deployment-strategies",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Deployment patterns, rollback automation, and infrastructure templates",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -406,7 +406,7 @@
     },
     {
       "name": "deployment-validation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Pre-deployment checks, configuration validation, and deployment readiness assessment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -417,7 +417,7 @@
     },
     {
       "name": "developer-essentials",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "description": "Essential developer skills including Git workflows, SQL optimization, error handling, code review, E2E testing, authentication, debugging, and monorepo management",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -428,7 +428,7 @@
     },
     {
       "name": "distributed-debugging",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Distributed system tracing and debugging across microservices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -439,7 +439,7 @@
     },
     {
       "name": "documentation-generation",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "OpenAPI specification generation, Mermaid diagram creation, tutorial writing, API reference documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -450,7 +450,7 @@
     },
     {
       "name": "documentation-standards",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "HADS (Human-AI Document Standard) \u2014 semantic tagging convention for writing docs that work efficiently for both humans and AI models. Reduces token consumption by separating machine-critical facts from human context.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -461,7 +461,7 @@
     },
     {
       "name": "dotnet-contribution",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "description": "Comprehensive .NET backend development with C#, ASP.NET Core, Entity Framework Core, and Dapper for production-grade applications",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -472,7 +472,7 @@
     },
     {
       "name": "error-debugging",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Error analysis, trace debugging, and multi-agent problem diagnosis",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -483,7 +483,7 @@
     },
     {
       "name": "error-diagnostics",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Error tracing, root cause analysis, and smart debugging for production systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -520,7 +520,7 @@
     },
     {
       "name": "framework-migration",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Framework updates, migration planning, and architectural transformation workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -544,7 +544,7 @@
     },
     {
       "name": "frontend-mobile-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Frontend UI development and mobile application implementation across platforms",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -555,7 +555,7 @@
     },
     {
       "name": "frontend-mobile-security",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "XSS prevention, CSRF protection, content security policies, mobile app security, and secure storage patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -566,7 +566,7 @@
     },
     {
       "name": "full-stack-orchestration",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "End-to-end feature orchestration with testing, security, performance, and deployment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -577,7 +577,7 @@
     },
     {
       "name": "functional-programming",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Functional programming with Elixir, OTP patterns, Phoenix framework, and distributed systems",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -588,7 +588,7 @@
     },
     {
       "name": "game-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Unity game development with C# scripting, Minecraft server plugin development with Bukkit/Spigot APIs",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -599,7 +599,7 @@
     },
     {
       "name": "git-pr-workflows",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Git workflow automation, pull request enhancement, and team onboarding processes",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -623,7 +623,7 @@
     },
     {
       "name": "hr-legal-compliance",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "HR policy documentation, legal compliance templates (GDPR/SOC2/HIPAA), employment contracts, and regulatory documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -634,7 +634,7 @@
     },
     {
       "name": "incident-response",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "Production incident management, triage workflows, and automated incident resolution",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -645,7 +645,7 @@
     },
     {
       "name": "javascript-typescript",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "JavaScript and TypeScript development with ES6+, Node.js, React, and modern web frameworks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -656,7 +656,7 @@
     },
     {
       "name": "julia-development",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Modern Julia development with Julia 1.10+, package management, scientific computing, high-performance numerical code, and production best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -667,7 +667,7 @@
     },
     {
       "name": "jvm-languages",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "JVM language development including Java, Scala, and C# with enterprise patterns and frameworks",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -678,7 +678,7 @@
     },
     {
       "name": "kubernetes-operations",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Kubernetes manifest generation, networking configuration, security policies, observability setup, GitOps workflows, and auto-scaling",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -702,7 +702,7 @@
     },
     {
       "name": "llm-application-dev",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "description": "LLM application development with LangGraph, RAG systems, vector search, and AI agent architectures for Claude 4.6 and GPT-5.4",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -713,7 +713,7 @@
     },
     {
       "name": "machine-learning-ops",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "ML model training pipelines, hyperparameter tuning, model deployment automation, experiment tracking, and MLOps workflows",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -735,7 +735,7 @@
     },
     {
       "name": "multi-platform-apps",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Cross-platform application development coordinating web, iOS, Android, and desktop implementations",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -746,7 +746,7 @@
     },
     {
       "name": "observability-monitoring",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Metrics collection, logging infrastructure, distributed tracing, SLO implementation, and monitoring dashboards",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -757,7 +757,7 @@
     },
     {
       "name": "payment-processing",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Payment gateway integration with Stripe, PayPal, checkout flow implementation, subscription billing, and PCI compliance",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -768,7 +768,7 @@
     },
     {
       "name": "performance-testing-review",
-      "version": "1.2.1",
+      "version": "1.2.2",
       "description": "Performance analysis, test coverage review, and AI-powered code quality assessment",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -779,7 +779,7 @@
     },
     {
       "name": "plugin-eval",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Three-layer quality evaluation framework for Claude Code plugins with Elo ranking",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -803,7 +803,7 @@
     },
     {
       "name": "protect-mcp",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Cedar policy enforcement + Ed25519 signed receipts for every Claude Code tool call. First cryptographic governance plugin \u2014 decisions are policy-gated before they run and every decision produces a tamper-evident receipt verifiable offline.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -814,7 +814,7 @@
     },
     {
       "name": "python-development",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Modern Python development with Python 3.12+, Django, FastAPI, async patterns, and production best practices",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -839,7 +839,7 @@
     },
     {
       "name": "quantitative-trading",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Quantitative analysis, algorithmic trading strategies, financial modeling, portfolio risk management, and backtesting",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -863,7 +863,7 @@
     },
     {
       "name": "reverse-engineering",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Binary reverse engineering, malware analysis, firmware security, and software protection research for authorized security research, CTF competitions, and defensive security",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -874,7 +874,7 @@
     },
     {
       "name": "review-agent-governance",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Require a human approval signal before an AI agent can post PR reviews, comments, merges, or writes to CI configuration. Joins protect-mcp and signed-audit-trails in the governance category; composes with protect-mcp for runtime enforcement.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -885,7 +885,7 @@
     },
     {
       "name": "security-compliance",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "SOC2, HIPAA, and GDPR compliance validation, secrets scanning, compliance checklists, and regulatory documentation",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -909,7 +909,7 @@
     },
     {
       "name": "security-scanning",
-      "version": "1.3.1",
+      "version": "1.3.2",
       "description": "SAST analysis, dependency vulnerability scanning, OWASP Top 10 compliance, container security scanning, and automated security hardening",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -920,7 +920,7 @@
     },
     {
       "name": "seo-analysis-monitoring",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Content freshness analysis, cannibalization detection, and authority building for SEO",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -931,7 +931,7 @@
     },
     {
       "name": "seo-content-creation",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "SEO content writing, planning, and quality auditing with E-E-A-T optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -942,7 +942,7 @@
     },
     {
       "name": "seo-technical-optimization",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Technical SEO optimization including meta tags, keywords, structure, and featured snippets",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -953,7 +953,7 @@
     },
     {
       "name": "shell-scripting",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Production-grade Bash scripting with defensive programming, POSIX compliance, and comprehensive testing",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -964,7 +964,7 @@
     },
     {
       "name": "ship-mate",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Your AI development teammate. Turns a story file into a shipped, reviewed, and tested feature via orchestrator \u2192 architect \u2192 developer \u2192 PR reviewer \u2192 QA \u2192 Playwright.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -975,7 +975,7 @@
     },
     {
       "name": "signed-audit-trails",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "description": "Teaching skill: cookbook-style walkthrough for signed audit trails on every Claude Code tool call. Cedar policy, Ed25519 receipts, offline verification, CI/CD integration, SLSA composition. Pairs with the protect-mcp runtime plugin.",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -986,7 +986,7 @@
     },
     {
       "name": "startup-business-analyst",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "description": "Comprehensive startup business analysis with market sizing (TAM/SAM/SOM), financial modeling, team planning, and strategic research for early-stage companies",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -997,7 +997,7 @@
     },
     {
       "name": "systems-programming",
-      "version": "1.2.2",
+      "version": "1.2.3",
       "description": "Systems programming with Rust, Go, C, and C++ for performance-critical and low-level development",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1008,7 +1008,7 @@
     },
     {
       "name": "tdd-workflows",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "description": "Test-driven development methodology with red-green-refactor cycles and code review",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1019,7 +1019,7 @@
     },
     {
       "name": "team-collaboration",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Team workflows, issue management, standup automation, and developer experience optimization",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1030,7 +1030,7 @@
     },
     {
       "name": "ui-design",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "description": "Comprehensive UI/UX design plugin for mobile (iOS, Android, React Native) and web applications with design systems, accessibility, and modern patterns",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1041,7 +1041,7 @@
     },
     {
       "name": "unit-testing",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Unit and integration test automation for Python and JavaScript with debugging support",
       "source_id": "wshobson",
       "source_priority": 2,
@@ -1052,7 +1052,7 @@
     },
     {
       "name": "web-scripting",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "description": "Web scripting with PHP and Ruby for web applications, CMS development, and backend services",
       "source_id": "wshobson",
       "source_priority": 2,
