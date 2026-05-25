@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 94,
-    "mirrored": 82,
+    "total": 95,
+    "mirrored": 83,
     "link_only": 12
   },
   "licenses": [
@@ -623,6 +623,13 @@
     },
     {
       "name": "block-no-verify",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "pensyve",
       "license": "MIT",
       "classification": "permissive",
       "mirrored": true,

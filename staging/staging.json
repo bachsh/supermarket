@@ -1,12 +1,20 @@
 {
-  "updated_at": "2026-05-24T06:01:45.173174+00:00",
+  "updated_at": "2026-05-25T06:27:42.227734+00:00",
   "entries": [
+    {
+      "name": "pensyve",
+      "status": "pending_review",
+      "reason": "new-plugin",
+      "first_seen": "2026-05-25T06:27:42.227734+00:00",
+      "updated_at": "2026-05-25T06:27:42.227734+00:00",
+      "fingerprint": "f24d5f0ddd7feca41c747898cad0cddf56340c016a18cfabfad748f7840328a0"
+    },
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-24T06:01:45.173174+00:00",
-      "updated_at": "2026-05-24T06:01:45.173174+00:00",
+      "first_seen": "2026-05-25T06:27:42.227734+00:00",
+      "updated_at": "2026-05-25T06:27:42.227734+00:00",
       "fingerprint": "51b23feac3dd93d6fe5abd7973411b7845eb0878e6a66c4e4eef0b7fa8b5ff0b"
     }
   ],
@@ -1156,10 +1164,10 @@
     }
   },
   "summary": {
-    "scored": 94,
+    "scored": 95,
     "promoted": 93,
-    "staged": 1,
-    "new_plugins": 1,
+    "staged": 2,
+    "new_plugins": 2,
     "ttl_rejected": 0
   }
 }
