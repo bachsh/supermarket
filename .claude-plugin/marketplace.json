@@ -5,7 +5,7 @@
   "owner": {
     "name": "your-org"
   },
-  "generatedAt": "2026-05-26T06:06:37.708384+00:00",
+  "generatedAt": "2026-05-27T06:21:12.587379+00:00",
   "plugins": [
     {
       "name": "accessibility-compliance",
@@ -858,8 +858,8 @@
     },
     {
       "name": "security-guidance",
-      "version": "1.0.0",
-      "description": "Security reminder hook that warns about potential security issues when editing files, including command injection, XSS, and unsafe code patterns",
+      "version": "2.0.0",
+      "description": "Security review for Claude-generated code. Pattern-based warnings on edits, LLM-powered diff review on Stop, and an agentic commit reviewer that catches injection, XSS, SSRF, hardcoded secrets, and 25+ other vulnerability classes.",
       "source": {
         "source": "github",
         "repo": "anthropics/claude-code"
