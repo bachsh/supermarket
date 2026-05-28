@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-05-27T06:21:12.542978+00:00",
+  "updated_at": "2026-05-28T06:12:20.864204+00:00",
   "entries": [
     {
       "name": "pensyve",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-27T06:21:12.542978+00:00",
-      "updated_at": "2026-05-27T06:21:12.542978+00:00",
+      "first_seen": "2026-05-28T06:12:20.864204+00:00",
+      "updated_at": "2026-05-28T06:12:20.864204+00:00",
       "fingerprint": "f24d5f0ddd7feca41c747898cad0cddf56340c016a18cfabfad748f7840328a0"
-    },
-    {
-      "name": "security-guidance",
-      "status": "auto_promoted",
-      "reason": "auto-promoted",
-      "updated_at": "2026-05-27T06:21:12.542978+00:00",
-      "fingerprint": "6a46343bcf26b795b36e07f341ecb320da78eb5f3e97dc39eec33eacbe5d2af5"
     },
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-05-27T06:21:12.542978+00:00",
-      "updated_at": "2026-05-27T06:21:12.542978+00:00",
+      "first_seen": "2026-05-28T06:12:20.864204+00:00",
+      "updated_at": "2026-05-28T06:12:20.864204+00:00",
       "fingerprint": "51b23feac3dd93d6fe5abd7973411b7845eb0878e6a66c4e4eef0b7fa8b5ff0b"
     }
   ],
