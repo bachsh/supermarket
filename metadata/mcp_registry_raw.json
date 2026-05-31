@@ -172,40 +172,6 @@
     {
       "server": {
         "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-        "name": "ai.31st/mcp",
-        "description": "AI Accountant for Quickbooks- recording, reconcile, month-end close",
-        "title": "31st.ai \u2014 AI Accountant for QuickBooks",
-        "version": "1.0.2",
-        "websiteUrl": "https://31st.ai",
-        "icons": [
-          {
-            "src": "https://31st.ai/favicon-512x512.png",
-            "mimeType": "image/png",
-            "sizes": [
-              "512x512"
-            ]
-          }
-        ],
-        "remotes": [
-          {
-            "type": "streamable-http",
-            "url": "https://mcp.31st.ai/mcp"
-          }
-        ]
-      },
-      "_meta": {
-        "io.modelcontextprotocol.registry/official": {
-          "status": "active",
-          "statusChangedAt": "2026-05-23T22:21:07.570039Z",
-          "publishedAt": "2026-05-23T22:21:07.570039Z",
-          "updatedAt": "2026-05-23T22:21:07.570039Z",
-          "isLatest": true
-        }
-      }
-    },
-    {
-      "server": {
-        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
         "name": "ai.aarna/atars-mcp",
         "description": "Crypto market signals, technical indicators, and sentiment analysis for AI agents.",
         "title": "aTars MCP",
@@ -966,6 +932,30 @@
           "isLatest": true
         }
       }
+    },
+    {
+      "server": {
+        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+        "name": "ai.alpic.test/test-mcp-server",
+        "description": "Alpic Test MCP Server - great server!",
+        "repository": {},
+        "version": "0.0.1",
+        "remotes": [
+          {
+            "type": "streamable-http",
+            "url": "https://test.alpic.ai/"
+          }
+        ]
+      },
+      "_meta": {
+        "io.modelcontextprotocol.registry/official": {
+          "status": "active",
+          "statusChangedAt": "2025-09-10T13:57:43.256739Z",
+          "publishedAt": "2025-09-10T13:57:43.256739Z",
+          "updatedAt": "2025-09-10T13:57:43.256739Z",
+          "isLatest": true
+        }
+      }
     }
   ],
   "meta": {
@@ -973,5 +963,5 @@
     "limit": 200,
     "source": "https://registry.modelcontextprotocol.io/v0/servers"
   },
-  "fetchedAt": "2026-05-30T05:47:53.896038+00:00"
+  "fetchedAt": "2026-05-31T06:18:37.039588+00:00"
 }
