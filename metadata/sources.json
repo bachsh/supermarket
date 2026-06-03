@@ -651,6 +651,16 @@
       "mirrored_path": "plugins/wshobson-content-marketing"
     },
     {
+      "name": "social-publishing",
+      "version": "1.0.0",
+      "description": "Schedule and publish social media posts across 13 platforms (X, LinkedIn Profile + Page, Instagram Business + Standalone, Facebook Pages, TikTok, Discord, Telegram, YouTube, Reddit, WordPress, Pinterest) via SocialClaw \u2014 one workspace API key covers everything",
+      "source_id": "wshobson",
+      "source_priority": 2,
+      "upstream_repo": "https://github.com/wshobson/agents.git",
+      "source": "./plugins/wshobson-social-publishing",
+      "mirrored_path": "plugins/wshobson-social-publishing"
+    },
+    {
       "name": "blockchain-web3",
       "version": "1.2.3",
       "description": "Smart contract development with Solidity, DeFi protocol implementation, NFT platforms, and Web3 application architecture",

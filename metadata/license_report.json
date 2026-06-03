@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 95,
-    "mirrored": 83,
+    "total": 96,
+    "mirrored": 84,
     "link_only": 12
   },
   "licenses": [
@@ -455,6 +455,13 @@
     },
     {
       "name": "content-marketing",
+      "license": "MIT",
+      "classification": "permissive",
+      "mirrored": true,
+      "override": false
+    },
+    {
+      "name": "social-publishing",
       "license": "MIT",
       "classification": "permissive",
       "mirrored": true,
