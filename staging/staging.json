@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-07T06:23:56.247246+00:00",
+  "updated_at": "2026-06-08T06:43:20.090867+00:00",
   "entries": [
     {
       "name": "pensyve",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-06-07T06:23:56.247246+00:00",
-      "updated_at": "2026-06-07T06:23:56.247246+00:00",
+      "first_seen": "2026-06-08T06:43:20.090867+00:00",
+      "updated_at": "2026-06-08T06:43:20.090867+00:00",
       "fingerprint": "f24d5f0ddd7feca41c747898cad0cddf56340c016a18cfabfad748f7840328a0"
     },
     {
       "name": "ship-mate",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-06-07T06:23:56.247246+00:00",
-      "updated_at": "2026-06-07T06:23:56.247246+00:00",
+      "first_seen": "2026-06-08T06:43:20.090867+00:00",
+      "updated_at": "2026-06-08T06:43:20.090867+00:00",
       "fingerprint": "51b23feac3dd93d6fe5abd7973411b7845eb0878e6a66c4e4eef0b7fa8b5ff0b"
     },
     {
       "name": "social-publishing",
       "status": "pending_review",
       "reason": "new-plugin",
-      "first_seen": "2026-06-07T06:23:56.247246+00:00",
-      "updated_at": "2026-06-07T06:23:56.247246+00:00",
+      "first_seen": "2026-06-08T06:43:20.090867+00:00",
+      "updated_at": "2026-06-08T06:43:20.090867+00:00",
       "fingerprint": "813eb08437ede5a76c9d66d9f24bdb4aa09a7ba17f33d2f91dac421039d52641"
     }
   ],
